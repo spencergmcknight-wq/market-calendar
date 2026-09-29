@@ -1,15 +1,20 @@
 {
- "updated_at": "2026-09-29T21:27:08Z",
- "last_success": "2026-09-29T21:27:08Z",
+ "updated_at": "2026-09-29T21:39:22Z",
+ "last_success": "2026-09-29T21:39:22Z",
  "ok": {
   "thisweek": true,
-  "nextweek": false
+  "nextweek": false,
+  "factset_pe": false,
+  "spdji_eps": false
  },
  "errors": {
-  "nextweek": "HTTP Error 404: Not Found"
+  "nextweek": "HTTP Error 404: Not Found",
+  "factset_pe": "P/E sentence not found (checked 12 articles)",
+  "spdji_eps": "HTTP Error 403: Forbidden"
  },
  "count": 49,
  "fed_speeches": 22,
+ "pe": {},
  "events": [
   {
    "title": "FOMC Member Bowman Speaks",
