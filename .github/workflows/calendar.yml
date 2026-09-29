@@ -19,7 +19,10 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Fetch the calendar
+      - name: Install the spreadsheet reader
+        run: pip install openpyxl
+
+      - name: Fetch the calendar and forward P/E
         run: python fetch.py
 
       - name: Save calendar.json
