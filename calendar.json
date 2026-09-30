@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-30T15:31:26Z",
- "last_success": "2026-09-30T15:31:26Z",
+ "updated_at": "2026-09-30T18:30:34Z",
+ "last_success": "2026-09-30T18:30:34Z",
  "ok": {
   "thisweek": true,
   "nextweek": false,
@@ -9,7 +9,7 @@
  },
  "errors": {
   "nextweek": "HTTP Error 404: Not Found",
-  "factset_pe": "P/E sentence not found (checked 12 articles)",
+  "factset_pe": "P/E sentence not found (checked 11 articles)",
   "spdji_eps": "HTTP Error 403: Forbidden"
  },
  "count": 50,
