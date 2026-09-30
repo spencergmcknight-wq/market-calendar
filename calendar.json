@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-30T09:29:20Z",
- "last_success": "2026-09-30T09:29:20Z",
+ "updated_at": "2026-09-30T12:37:25Z",
+ "last_success": "2026-09-30T12:37:25Z",
  "ok": {
   "thisweek": true,
   "nextweek": false,
@@ -215,7 +215,7 @@
   {
    "title": "FOMC Member Kashkari Speaks",
    "date": "2026-09-30T18:00:00-04:00",
-   "impact": "Low",
+   "impact": "Medium",
    "forecast": "",
    "previous": ""
   },
