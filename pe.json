@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-01T21:49:56Z",
+ "updated_at": "2026-10-02T21:48:57Z",
  "ok": {
   "factset": true,
   "spdji": false
@@ -8,9 +8,9 @@
   "spdji": "browser download HTTP 403"
  },
  "factset": {
-  "value": 19.2,
-  "source": "Earnings Insight 2026-09-25",
-  "as_of": "2026-10-01T21:49:56Z"
+  "value": 19.0,
+  "source": "Earnings Insight 2026-10-02",
+  "as_of": "2026-10-02T21:48:57Z"
  },
  "spdji": {}
 }
