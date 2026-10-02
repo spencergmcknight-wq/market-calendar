@@ -1,20 +1,25 @@
 {
- "updated_at": "2026-10-02T15:30:39Z",
- "last_success": "2026-10-02T15:30:39Z",
+ "updated_at": "2026-10-02T18:31:56Z",
+ "last_success": "2026-10-02T18:31:56Z",
  "ok": {
   "thisweek": true,
   "nextweek": false,
-  "factset_pe": false,
+  "factset_pe": true,
   "spdji_eps": false
  },
  "errors": {
   "nextweek": "HTTP Error 404: Not Found",
-  "factset_pe": "P/E sentence not found (checked 11 articles)",
   "spdji_eps": "HTTP Error 403: Forbidden"
  },
  "count": 51,
  "fed_speeches": 24,
- "pe": {},
+ "pe": {
+  "factset": {
+   "value": 19.0,
+   "source": "https://insight.factset.com/sp-500-earnings-season-preview-q3-2026",
+   "as_of": "2026-10-02T18:31:56Z"
+  }
+ },
  "events": [
   {
    "title": "FOMC Member Bowman Speaks",
@@ -368,7 +373,7 @@
   },
   {
    "title": "FOMC Member Goolsbee Speaks",
-   "date": "2026-10-02T12:00:00-04:00",
+   "date": "2026-10-02T13:00:00-04:00",
    "impact": "Low",
    "forecast": "",
    "previous": ""
