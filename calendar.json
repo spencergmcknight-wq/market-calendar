@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-02T12:33:58Z",
- "last_success": "2026-10-02T12:33:58Z",
+ "updated_at": "2026-10-02T15:30:39Z",
+ "last_success": "2026-10-02T15:30:39Z",
  "ok": {
   "thisweek": true,
   "nextweek": false,
@@ -12,8 +12,8 @@
   "factset_pe": "P/E sentence not found (checked 11 articles)",
   "spdji_eps": "HTTP Error 403: Forbidden"
  },
- "count": 50,
- "fed_speeches": 23,
+ "count": 51,
+ "fed_speeches": 24,
  "pe": {},
  "events": [
   {
@@ -362,6 +362,13 @@
   {
    "title": "FOMC Member Logan Speaks",
    "date": "2026-10-02T10:00:00-04:00",
+   "impact": "Low",
+   "forecast": "",
+   "previous": ""
+  },
+  {
+   "title": "FOMC Member Goolsbee Speaks",
+   "date": "2026-10-02T12:00:00-04:00",
    "impact": "Low",
    "forecast": "",
    "previous": ""
