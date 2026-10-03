@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-02T21:27:14Z",
- "last_success": "2026-10-02T21:27:14Z",
+ "updated_at": "2026-10-03T00:33:27Z",
+ "last_success": "2026-10-03T00:33:27Z",
  "ok": {
   "thisweek": true,
   "nextweek": false,
@@ -17,7 +17,7 @@
   "factset": {
    "value": 19.0,
    "source": "https://insight.factset.com/sp-500-earnings-season-preview-q3-2026",
-   "as_of": "2026-10-02T21:27:14Z"
+   "as_of": "2026-10-03T00:33:27Z"
   }
  },
  "events": [
