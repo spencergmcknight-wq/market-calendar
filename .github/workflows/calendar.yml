@@ -13,16 +13,13 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: '3.12'
 
-      - name: Install the spreadsheet reader
-        run: pip install openpyxl
-
-      - name: Fetch the calendar and forward P/E
+      - name: Fetch the calendar
         run: python fetch.py
 
       - name: Save calendar.json
@@ -31,4 +28,5 @@ jobs:
           git config user.email "calendar-bot@users.noreply.github.com"
           git add calendar.json
           git commit -m "Calendar update $(date -u +'%Y-%m-%d %H:%M UTC')" || echo "No changes"
+          git pull --rebase --autostash || true
           git push
