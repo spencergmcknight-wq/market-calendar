@@ -2,11 +2,16 @@ name: Update economic calendar
 
 on:
   schedule:
-    - cron: '17 */3 * * *'     # every 3 hours, at 17 minutes past the hour (UTC)
-  workflow_dispatch:            # adds a "Run workflow" button for manual runs
+    - cron: '17 */3 * * *'        # every 3 hours, at 17 minutes past the hour (UTC)
+    - cron: '*/15 12-15 * * 1-5'  # weekdays every 15 minutes, 12:00-15:45 UTC = 8:00-11:45 AM ET in summer (7:00-10:45 AM in winter): actual results soon after each release
+  workflow_dispatch:               # adds a "Run workflow" button for manual runs
 
 permissions:
-  contents: write               # lets the job save calendar.json back to the repository
+  contents: write                  # lets the job save calendar.json back to the repository
+
+concurrency:
+  group: calendar                  # one run at a time; a run that starts while another is going waits its turn
+  cancel-in-progress: false
 
 jobs:
   update:
@@ -19,7 +24,10 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Fetch the calendar
+      - name: Install the page reader
+        run: pip install beautifulsoup4
+
+      - name: Fetch the calendar and actual results
         run: python fetch.py
 
       - name: Save calendar.json
