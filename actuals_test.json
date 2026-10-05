@@ -1,0 +1,1952 @@
+{
+ "run_at": "2026-10-05T22:57:35Z",
+ "seconds": 103,
+ "sources": {
+  "FF feed this week (JSON)": {
+   "url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
+   "status": 200,
+   "seconds": 0.1,
+   "kb": 10.8,
+   "fields": [
+    "country",
+    "date",
+    "forecast",
+    "impact",
+    "previous",
+    "title"
+   ],
+   "has_actual": false
+  },
+  "FF feed this week (XML)": {
+   "url": "https://nfs.faireconomy.media/ff_calendar_thisweek.xml",
+   "status": 200,
+   "seconds": 0.0,
+   "kb": 27.5,
+   "actual_tags": 0
+  },
+  "FF feed next week (JSON)": {
+   "url": "https://nfs.faireconomy.media/ff_calendar_nextweek.json",
+   "status": 404,
+   "seconds": 0.1,
+   "kb": 0.5
+  },
+  "FF feed next week (XML)": {
+   "url": "https://nfs.faireconomy.media/ff_calendar_nextweek.xml",
+   "status": 404,
+   "seconds": 0.1,
+   "kb": 0.5
+  },
+  "browser": {
+   "started": true,
+   "error": ""
+  },
+  "ForexFactory this week (plain)": {
+   "url": "https://www.forexfactory.com/calendar?week=this",
+   "mode": "plain",
+   "status": 200,
+   "seconds": 0.3,
+   "kb": 388.1,
+   "bot_check": false,
+   "title": "Calendar | Forex Factory",
+   "rows": 22,
+   "with_actual": 2
+  },
+  "ForexFactory next week (plain)": {
+   "url": "https://www.forexfactory.com/calendar?week=next",
+   "mode": "plain",
+   "status": 200,
+   "seconds": 0.2,
+   "kb": 380.1,
+   "bot_check": false,
+   "title": "Calendar | Forex Factory",
+   "rows": 27,
+   "with_actual": 0
+  },
+  "Trading Economics (U.S.) (plain)": {
+   "url": "https://tradingeconomics.com/united-states/calendar",
+   "mode": "plain",
+   "status": 200,
+   "seconds": 0.1,
+   "kb": 1280.3,
+   "bot_check": false,
+   "title": "United States Calendar",
+   "rows": 277,
+   "with_actual": 9
+  },
+  "ISM services page (plain)": {
+   "url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/services/",
+   "mode": "plain",
+   "status": 404,
+   "seconds": 0.4,
+   "kb": 373.3,
+   "bot_check": false,
+   "title": "404 Page Error Institute for Supply Management",
+   "found": []
+  },
+  "ISM services page (browser)": {
+   "url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/services/",
+   "mode": "browser",
+   "status": 404,
+   "seconds": 5.4,
+   "kb": 791.2,
+   "bot_check": false,
+   "title": "404 Page Error Institute for Supply Management",
+   "found": [
+    "Verification Volunteer Application ISM® PMI® Reports Find Local Chapter Contact Us Supply Management News & Reports News & Publications Inside Supply Management Magazine Supply Chain — Unfiltere",
+    "odcasts ISM Press Room ISM Reports ISM® PMI® Reports Research & Surveys CAPS Research Research Resource Centers Salary Survey Strategic Sourcing Sustainability Tariffs For Individuals Membership",
+    " Inside Supply Management Magazine ISM® PMI® Reports CAPS Research Career Center Marketing Opportunities Advertise With Us Exhibit and Sponsorship Opportunities Media Kit ism-logo-white Institut"
+   ]
+  },
+  "ISM manufacturing page (plain)": {
+   "url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/pmi/",
+   "mode": "plain",
+   "status": 404,
+   "seconds": 0.2,
+   "kb": 373.3,
+   "bot_check": false,
+   "title": "404 Page Error Institute for Supply Management",
+   "found": []
+  },
+  "ISM manufacturing page (browser)": {
+   "url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/pmi/",
+   "mode": "browser",
+   "status": 404,
+   "seconds": 5.4,
+   "kb": 791.2,
+   "bot_check": false,
+   "title": "404 Page Error Institute for Supply Management",
+   "found": [
+    "Verification Volunteer Application ISM® PMI® Reports Find Local Chapter Contact Us Supply Management News & Reports News & Publications Inside Supply Management Magazine Supply Chain — Unfiltere",
+    "odcasts ISM Press Room ISM Reports ISM® PMI® Reports Research & Surveys CAPS Research Research Resource Centers Salary Survey Strategic Sourcing Sustainability Tariffs For Individuals Membership",
+    " Inside Supply Management Magazine ISM® PMI® Reports CAPS Research Career Center Marketing Opportunities Advertise With Us Exhibit and Sponsorship Opportunities Media Kit ism-logo-white Institut"
+   ]
+  },
+  "ISM releases on PR Newswire (plain)": {
+   "url": "https://www.prnewswire.com/news/institute-for-supply-management/",
+   "mode": "plain",
+   "status": 200,
+   "seconds": 0.1,
+   "kb": 237.2,
+   "bot_check": false,
+   "title": "Institute for Supply Management News and Press Releases | PR Newswire",
+   "found": [
+    "5 per page 100 per page Latest 10:00 ET Services PMI® at 54.9%; September 2026 ISM® Services PMI® Report Economic activity in the services sector continued to expand in September, say the nation's purch",
+    "ices PMI® at 54.9%; September 2026 ISM® Services PMI® Report Economic activity in the services sector continued to expand in September, say the nation's purchasing and supply executives in the latest IS",
+    "e latest ISM®... Oct 01, 2026, 10:00 ET Manufacturing PMI® at 54.5%; September 2026 ISM® Manufacturing PMI® Report Economic activity in the manufacturing sector expanded in September for the ninth consecutiv",
+    "ring PMI® at 54.5%; September 2026 ISM® Manufacturing PMI® Report Economic activity in the manufacturing sector expanded in September for the ninth consecutive month, say the nation's supply executives in th"
+   ]
+  },
+  "S&P Global PMI releases (plain)": {
+   "url": "https://www.pmi.spglobal.com/Public/Release/PressReleases",
+   "mode": "plain",
+   "status": 200,
+   "seconds": 0.6,
+   "kb": 80.1,
+   "bot_check": false,
+   "title": "PMI Releases",
+   "found": [
+    "re October 05 2026 13:45 UTC S&P Global US Services PMI View More October 05 2026 13:30 UTC S&P Global Canada Services PMI View More October 05 2026 13:00 UTC S&P Global Brazil Services PMI View More Octob",
+    "re October 01 2026 13:45 UTC S&P Global US Manufacturing PMI View More October 01 2026 13:30 UTC S&P Global Canada Manufacturing PMI View More October 01 2026 13:30 UTC S&P Global Canada Manufacturing PMI (Fran"
+   ]
+  },
+  "Conference Board confidence (plain)": {
+   "url": "https://www.conference-board.org/topics/consumer-confidence",
+   "mode": "plain",
+   "status": 200,
+   "seconds": 0.4,
+   "kb": 325.9,
+   "bot_check": false,
+   "title": "US Consumer Confidence",
+   "found": [
+    "Program Data Data All Data Data Central Consumer Confidence Index ® TCB Benchmarking Recession & Growth Trackers Global Economic Outlook Leading Economic Indicators Help Wanted OnLine Labor Markets Measure of CEO Co",
+    "Program Data Data All Data Data Central Consumer Confidence Index ® TCB Benchmarking Recession & Growth Trackers Global Economic Outlook Leading Economic Indicators Help Wanted OnLine Labor Markets Measure of CEO Co",
+    "rtal for the entire suite of indicators Consumer Confidence Index ® Labor Markets Measure of CEO Confidence Global Gray Swans Tool Prepare for high-impact events Recession & Growth Trackers Current & future state of",
+    " both deteriorated The Conference Board Consumer Confidence Index ® fell by 6.7 points to 81.9 (1985=100) in September, down from 88.6 in August. The Present Situation Index —based on consumers’ assessment of curren"
+   ]
+  },
+  "Chicago PMI (ISM-Chicago) (plain)": {
+   "url": "https://www.ism-chicago.org/",
+   "mode": "plain",
+   "status": 200,
+   "seconds": 1.3,
+   "kb": 0.9,
+   "bot_check": false,
+   "title": "",
+   "found": []
+  },
+  "Chicago PMI (ISM-Chicago) (browser)": {
+   "url": "https://www.ism-chicago.org/",
+   "mode": "browser",
+   "status": 404,
+   "seconds": 5.8,
+   "kb": 2.7,
+   "bot_check": false,
+   "title": "Oops!",
+   "found": []
+  },
+  "ADP report page (plain)": {
+   "url": "https://adpemploymentreport.com/",
+   "mode": "plain",
+   "status": 200,
+   "seconds": 0.1,
+   "kb": 1.3,
+   "bot_check": false,
+   "title": "ADP® National Employment Report",
+   "found": []
+  },
+  "ADP report page (browser)": {
+   "url": "https://adpemploymentreport.com/",
+   "mode": "browser",
+   "status": 200,
+   "seconds": 5.3,
+   "kb": 813.9,
+   "bot_check": false,
+   "title": "ADP® National Employment Report",
+   "found": [
+    "ata SHARE September 2026 Change in U.S. private employment 90,000 Private employers added 90,000 jobs in September Hiring accelerated for the first time since May, led by education and health care and leisure",
+    "ate employment 90,000 Private employers added 90,000 jobs in September Hiring accelerated for the first time since May, led by education and health care and leisure and hospitality. Financial activities and ",
+    "tional employment report Change in U.S. Private Employment National Industry Establishment Size Region Created with Highcharts 12.6.2 Employment Chart context menu U.S. Private Employment Private Employment 2",
+    ".6.2 Employment Chart context menu U.S. Private Employment Private Employment 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 2010 ​ 2010 2012 ​ 2012 2014 ​ 2014 2016 ​ 20"
+   ]
+  },
+  "EIA weekly petroleum page (plain)": {
+   "url": "https://www.eia.gov/petroleum/supply/weekly/",
+   "mode": "plain",
+   "status": 200,
+   "seconds": 10.1,
+   "kb": 81.2,
+   "bot_check": false,
+   "title": "U.S. Energy Information Administration (EIA)",
+   "found": []
+  },
+  "EIA weekly petroleum page (browser)": {
+   "url": "https://www.eia.gov/petroleum/supply/weekly/",
+   "mode": "browser",
+   "status": 200,
+   "seconds": 5.5,
+   "kb": 700.8,
+   "bot_check": false,
+   "title": "U.S. Energy Information Administration (EIA)",
+   "found": []
+  },
+  "ADP monthly on FRED (ADPMNUSNERSA)": {
+   "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=ADPMNUSNERSA",
+   "mode": "plain",
+   "error": "The read operation timed out"
+  },
+  "ADP weekly on FRED (ADPWNUSNERSA)": {
+   "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=ADPWNUSNERSA",
+   "mode": "plain",
+   "error": "The read operation timed out"
+  }
+ },
+ "calendar_days_seen": {
+  "ForexFactory this week": [
+   "Fri Oct 9",
+   "Mon Oct 5",
+   "Thu Oct 8",
+   "Tue Oct 6",
+   "Wed Oct 7"
+  ],
+  "ForexFactory next week": [
+   "Fri Oct 16",
+   "Mon Oct 12",
+   "Sun Oct 11",
+   "Thu Oct 15",
+   "Tue Oct 13",
+   "Wed Oct 14"
+  ],
+  "Trading Economics (U.S.)": [
+   "Friday October 09 2026",
+   "Friday October 16 2026",
+   "Friday October 23 2026",
+   "Friday October 30 2026",
+   "Monday October 05 2026",
+   "Monday October 12 2026",
+   "Monday October 19 2026",
+   "Monday October 26 2026",
+   "Thursday October 08 2026",
+   "Thursday October 15 2026",
+   "Thursday October 22 2026",
+   "Thursday October 29 2026",
+   "Tuesday October 06 2026",
+   "Tuesday October 13 2026",
+   "Tuesday October 20 2026",
+   "Tuesday October 27 2026",
+   "Wednesday October 07 2026",
+   "Wednesday October 14 2026",
+   "Wednesday October 21 2026",
+   "Wednesday October 28 2026"
+  ]
+ },
+ "by_release": {
+  "ISM Services PMI": [
+   {
+    "day": "Mon Oct 5",
+    "time": "10:00am",
+    "event": "ISM Services PMI",
+    "actual": "54.9",
+    "forecast": "55.1",
+    "previous": "55.4",
+    "source": "ForexFactory this week"
+   },
+   {
+    "day": "Monday October 05 2026",
+    "time": "02:00 PM",
+    "event": "ism services pmi",
+    "country": "united states",
+    "actual": "54.9",
+    "previous": "55.4",
+    "consensus": "55",
+    "forecast": "55",
+    "source": "Trading Economics (U.S.)"
+   },
+   {
+    "day": "Monday October 05 2026",
+    "time": "02:00 PM",
+    "event": "ism services business activity",
+    "country": "united states",
+    "actual": "56.5",
+    "previous": "61.7",
+    "consensus": "",
+    "forecast": "61.5",
+    "source": "Trading Economics (U.S.)"
+   },
+   {
+    "day": "Monday October 05 2026",
+    "time": "02:00 PM",
+    "event": "ism services employment",
+    "country": "united states",
+    "actual": "50.1",
+    "previous": "47.8",
+    "consensus": "",
+    "forecast": "48",
+    "source": "Trading Economics (U.S.)"
+   },
+   {
+    "day": "Monday October 05 2026",
+    "time": "02:00 PM",
+    "event": "ism services new orders",
+    "country": "united states",
+    "actual": "59.8",
+    "previous": "60.9",
+    "consensus": "",
+    "forecast": "60.3",
+    "source": "Trading Economics (U.S.)"
+   },
+   {
+    "day": "Monday October 05 2026",
+    "time": "02:00 PM",
+    "event": "ism services prices",
+    "country": "united states",
+    "actual": "74.0",
+    "previous": "72.6",
+    "consensus": "",
+    "forecast": "72.9",
+    "source": "Trading Economics (U.S.)"
+   }
+  ],
+  "ISM Manufacturing PMI": [],
+  "S&P Global Services PMI (final)": [
+   {
+    "day": "Mon Oct 5",
+    "time": "9:45am",
+    "event": "Final Services PMI",
+    "actual": "58.8",
+    "forecast": "58.7",
+    "previous": "58.7",
+    "source": "ForexFactory this week"
+   },
+   {
+    "day": "Monday October 05 2026",
+    "time": "01:45 PM",
+    "event": "s&p global services pmi final",
+    "country": "united states",
+    "actual": "58.8",
+    "previous": "56.5",
+    "consensus": "58.7",
+    "forecast": "58.7",
+    "source": "Trading Economics (U.S.)"
+   },
+   {
+    "day": "Friday October 23 2026",
+    "time": "01:45 PM",
+    "event": "s&p global services pmi flash",
+    "country": "united states",
+    "actual": "",
+    "previous": "58.8",
+    "consensus": "",
+    "forecast": "",
+    "source": "Trading Economics (U.S.)"
+   }
+  ],
+  "S&P Global Composite PMI (final)": [
+   {
+    "day": "Monday October 05 2026",
+    "time": "01:45 PM",
+    "event": "s&p global composite pmi final",
+    "country": "united states",
+    "actual": "58.4",
+    "previous": "56.0",
+    "consensus": "58.4",
+    "forecast": "58.4",
+    "source": "Trading Economics (U.S.)"
+   },
+   {
+    "day": "Friday October 23 2026",
+    "time": "01:45 PM",
+    "event": "s&p global composite pmi flash",
+    "country": "united states",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": "",
+    "source": "Trading Economics (U.S.)"
+   }
+  ],
+  "S&P Global Manufacturing PMI (final)": [
+   {
+    "day": "Friday October 23 2026",
+    "time": "01:45 PM",
+    "event": "s&p global manufacturing pmi flash",
+    "country": "united states",
+    "actual": "",
+    "previous": "55.9",
+    "consensus": "",
+    "forecast": "",
+    "source": "Trading Economics (U.S.)"
+   }
+  ],
+  "Chicago PMI": [
+   {
+    "day": "Friday October 30 2026",
+    "time": "01:45 PM",
+    "event": "chicago pmi",
+    "country": "united states",
+    "actual": "",
+    "previous": "58.8",
+    "consensus": "",
+    "forecast": "",
+    "source": "Trading Economics (U.S.)"
+   }
+  ],
+  "Conference Board consumer confidence": [
+   {
+    "day": "Tuesday October 27 2026",
+    "time": "02:00 PM",
+    "event": "cb consumer confidence",
+    "country": "united states",
+    "actual": "",
+    "previous": "81.9",
+    "consensus": "",
+    "forecast": "",
+    "source": "Trading Economics (U.S.)"
+   }
+  ],
+  "ADP employment (monthly)": [
+   {
+    "day": "Tuesday October 06 2026",
+    "time": "12:15 PM",
+    "event": "adp employment change weekly",
+    "country": "united states",
+    "actual": "",
+    "previous": "20K",
+    "consensus": "",
+    "forecast": "",
+    "source": "Trading Economics (U.S.)"
+   },
+   {
+    "day": "Tuesday October 13 2026",
+    "time": "12:15 PM",
+    "event": "adp employment change weekly",
+    "country": "united states",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": "",
+    "source": "Trading Economics (U.S.)"
+   },
+   {
+    "day": "Tuesday October 20 2026",
+    "time": "12:15 PM",
+    "event": "adp employment change weekly",
+    "country": "united states",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": "",
+    "source": "Trading Economics (U.S.)"
+   },
+   {
+    "day": "Tuesday October 27 2026",
+    "time": "12:15 PM",
+    "event": "adp employment change weekly",
+    "country": "united states",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": "",
+    "source": "Trading Economics (U.S.)"
+   }
+  ],
+  "ADP employment (weekly)": [
+   {
+    "day": "Tue Oct 6",
+    "time": "Sep 19th",
+    "event": "ADP Weekly Employment Change",
+    "actual": "",
+    "forecast": "",
+    "previous": "",
+    "source": "ForexFactory this week"
+   },
+   {
+    "day": "Tue Oct 6",
+    "time": "Sep 12th",
+    "event": "ADP Weekly Employment Change",
+    "actual": "",
+    "forecast": "",
+    "previous": "20.0K",
+    "source": "ForexFactory this week"
+   },
+   {
+    "day": "Tue Oct 13",
+    "time": "8:15am",
+    "event": "ADP Weekly Employment Change",
+    "actual": "",
+    "forecast": "",
+    "previous": "",
+    "source": "ForexFactory next week"
+   }
+  ],
+  "EIA crude inventories": [
+   {
+    "day": "Wed Oct 7",
+    "time": "10:30am",
+    "event": "Crude Oil Inventories",
+    "actual": "",
+    "forecast": "",
+    "previous": "0.9M",
+    "source": "ForexFactory this week"
+   },
+   {
+    "day": "Thu Oct 15",
+    "time": "12:00pm",
+    "event": "Crude Oil Inventories",
+    "actual": "",
+    "forecast": "",
+    "previous": "",
+    "source": "ForexFactory next week"
+   },
+   {
+    "day": "Wednesday October 07 2026",
+    "time": "02:30 PM",
+    "event": "eia crude oil stocks change",
+    "country": "united states",
+    "actual": "",
+    "previous": "0.922M",
+    "consensus": "",
+    "forecast": "",
+    "source": "Trading Economics (U.S.)"
+   },
+   {
+    "day": "Wednesday October 07 2026",
+    "time": "02:30 PM",
+    "event": "eia crude oil imports change",
+    "country": "united states",
+    "actual": "",
+    "previous": "-0.468M",
+    "consensus": "",
+    "forecast": "",
+    "source": "Trading Economics (U.S.)"
+   },
+   {
+    "day": "Wednesday October 07 2026",
+    "time": "02:30 PM",
+    "event": "eia cushing crude oil stocks change",
+    "country": "united states",
+    "actual": "",
+    "previous": "0.553M",
+    "consensus": "",
+    "forecast": "",
+    "source": "Trading Economics (U.S.)"
+   },
+   {
+    "day": "Thursday October 15 2026",
+    "time": "04:00 PM",
+    "event": "eia crude oil stocks change",
+    "country": "united states",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": "",
+    "source": "Trading Economics (U.S.)"
+   },
+   {
+    "day": "Thursday October 15 2026",
+    "time": "04:00 PM",
+    "event": "eia crude oil imports change",
+    "country": "united states",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": "",
+    "source": "Trading Economics (U.S.)"
+   },
+   {
+    "day": "Thursday October 15 2026",
+    "time": "04:00 PM",
+    "event": "eia cushing crude oil stocks change",
+    "country": "united states",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": "",
+    "source": "Trading Economics (U.S.)"
+   },
+   {
+    "day": "Wednesday October 21 2026",
+    "time": "02:30 PM",
+    "event": "eia crude oil stocks change",
+    "country": "united states",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": "",
+    "source": "Trading Economics (U.S.)"
+   },
+   {
+    "day": "Wednesday October 21 2026",
+    "time": "02:30 PM",
+    "event": "eia crude oil imports change",
+    "country": "united states",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": "",
+    "source": "Trading Economics (U.S.)"
+   },
+   {
+    "day": "Wednesday October 21 2026",
+    "time": "02:30 PM",
+    "event": "eia cushing crude oil stocks change",
+    "country": "united states",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": "",
+    "source": "Trading Economics (U.S.)"
+   },
+   {
+    "day": "Wednesday October 28 2026",
+    "time": "02:30 PM",
+    "event": "eia crude oil stocks change",
+    "country": "united states",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": "",
+    "source": "Trading Economics (U.S.)"
+   }
+  ]
+ },
+ "calendar_rows": {
+  "ForexFactory this week": [
+   {
+    "day": "Mon Oct 5",
+    "time": "9:45am",
+    "event": "Final Services PMI",
+    "actual": "58.8",
+    "forecast": "58.7",
+    "previous": "58.7"
+   },
+   {
+    "day": "Mon Oct 5",
+    "time": "10:00am",
+    "event": "ISM Services PMI",
+    "actual": "54.9",
+    "forecast": "55.1",
+    "previous": "55.4"
+   },
+   {
+    "day": "Tue Oct 6",
+    "time": "Sep 19th",
+    "event": "ADP Weekly Employment Change",
+    "actual": "",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "day": "Tue Oct 6",
+    "time": "Sep 12th",
+    "event": "ADP Weekly Employment Change",
+    "actual": "",
+    "forecast": "",
+    "previous": "20.0K"
+   },
+   {
+    "day": "Tue Oct 6",
+    "time": "8:30am",
+    "event": "Trade Balance",
+    "actual": "",
+    "forecast": "-100.8B",
+    "previous": "-88.6B"
+   },
+   {
+    "day": "Tue Oct 6",
+    "time": "Tentative",
+    "event": "RCM/TIPP Economic Optimism",
+    "actual": "",
+    "forecast": "44.5",
+    "previous": "45.6"
+   },
+   {
+    "day": "Tue Oct 6",
+    "time": "10:45am",
+    "event": "FOMC Member Bowman Speaks",
+    "actual": "",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "day": "Tue Oct 6",
+    "time": "1:15pm",
+    "event": "FOMC Member Schmid Speaks",
+    "actual": "",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "day": "Tue Oct 6",
+    "time": "4:30pm",
+    "event": "API Weekly Statistical Bulletin",
+    "actual": "",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "day": "Wed Oct 7",
+    "time": "10:30am",
+    "event": "Crude Oil Inventories",
+    "actual": "",
+    "forecast": "",
+    "previous": "0.9M"
+   },
+   {
+    "day": "Wed Oct 7",
+    "time": "1:01pm",
+    "event": "10-y Bond Auction",
+    "actual": "",
+    "forecast": "",
+    "previous": "4.83|2.7"
+   },
+   {
+    "day": "Wed Oct 7",
+    "time": "2:00pm",
+    "event": "FOMC Meeting Minutes",
+    "actual": "",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "day": "Wed Oct 7",
+    "time": "3:00pm",
+    "event": "Consumer Credit m/m",
+    "actual": "",
+    "forecast": "14.4B",
+    "previous": "18.1B"
+   },
+   {
+    "day": "Thu Oct 8",
+    "time": "4:30am",
+    "event": "FOMC Member Waller Speaks",
+    "actual": "",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "day": "Thu Oct 8",
+    "time": "8:30am",
+    "event": "Unemployment Claims",
+    "actual": "",
+    "forecast": "200K",
+    "previous": "197K"
+   },
+   {
+    "day": "Thu Oct 8",
+    "time": "10:00am",
+    "event": "Final Wholesale Inventories m/m",
+    "actual": "",
+    "forecast": "0.7%",
+    "previous": "0.7%"
+   },
+   {
+    "day": "Thu Oct 8",
+    "time": "10:30am",
+    "event": "Natural Gas Storage",
+    "actual": "",
+    "forecast": "",
+    "previous": "64B"
+   },
+   {
+    "day": "Thu Oct 8",
+    "time": "1:01pm",
+    "event": "30-y Bond Auction",
+    "actual": "",
+    "forecast": "",
+    "previous": "5.31|2.6"
+   },
+   {
+    "day": "Thu Oct 8",
+    "time": "1:40pm",
+    "event": "FOMC Member Musalem Speaks",
+    "actual": "",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "day": "Fri Oct 9",
+    "time": "10:00am",
+    "event": "Prelim UoM Consumer Sentiment",
+    "actual": "",
+    "forecast": "47.6",
+    "previous": "48.1"
+   },
+   {
+    "day": "Fri Oct 9",
+    "time": "10:00am",
+    "event": "Prelim UoM Inflation Expectations",
+    "actual": "",
+    "forecast": "",
+    "previous": "4.6%"
+   },
+   {
+    "day": "Fri Oct 9",
+    "time": "4:00pm",
+    "event": "FOMC Member Collins Speaks",
+    "actual": "",
+    "forecast": "",
+    "previous": ""
+   }
+  ],
+  "ForexFactory next week": [
+   {
+    "day": "Sun Oct 11",
+    "time": "Tentative",
+    "event": "Fed Monetary Policy Report",
+    "actual": "",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "day": "Mon Oct 12",
+    "time": "All Day",
+    "event": "Bank Holiday",
+    "actual": "",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "day": "Tue Oct 13",
+    "time": "6:00am",
+    "event": "NFIB Small Business Index",
+    "actual": "",
+    "forecast": "",
+    "previous": "98.7"
+   },
+   {
+    "day": "Tue Oct 13",
+    "time": "8:15am",
+    "event": "ADP Weekly Employment Change",
+    "actual": "",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "day": "Tue Oct 13",
+    "time": "10:00am",
+    "event": "Existing Home Sales",
+    "actual": "",
+    "forecast": "",
+    "previous": "3.98M"
+   },
+   {
+    "day": "Tue Oct 13",
+    "time": "2:00pm",
+    "event": "Federal Budget Balance",
+    "actual": "",
+    "forecast": "",
+    "previous": "-166.8B"
+   },
+   {
+    "day": "Wed Oct 14",
+    "time": "8:30am",
+    "event": "Core CPI m/m",
+    "actual": "",
+    "forecast": "",
+    "previous": "0.3%"
+   },
+   {
+    "day": "Wed Oct 14",
+    "time": "8:30am",
+    "event": "Core CPI y/y",
+    "actual": "",
+    "forecast": "",
+    "previous": "2.4%"
+   },
+   {
+    "day": "Wed Oct 14",
+    "time": "8:30am",
+    "event": "CPI m/m",
+    "actual": "",
+    "forecast": "",
+    "previous": "0.4%"
+   },
+   {
+    "day": "Wed Oct 14",
+    "time": "8:30am",
+    "event": "CPI y/y",
+    "actual": "",
+    "forecast": "",
+    "previous": "3.4%"
+   },
+   {
+    "day": "Wed Oct 14",
+    "time": "2:00pm",
+    "event": "Beige Book",
+    "actual": "",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "day": "Wed Oct 14",
+    "time": "4:30pm",
+    "event": "API Weekly Statistical Bulletin",
+    "actual": "",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "day": "Thu Oct 15",
+    "time": "8:30am",
+    "event": "Core PPI m/m",
+    "actual": "",
+    "forecast": "",
+    "previous": "0.2%"
+   },
+   {
+    "day": "Thu Oct 15",
+    "time": "8:30am",
+    "event": "Core Retail Sales m/m",
+    "actual": "",
+    "forecast": "",
+    "previous": "1.4%"
+   },
+   {
+    "day": "Thu Oct 15",
+    "time": "8:30am",
+    "event": "PPI m/m",
+    "actual": "",
+    "forecast": "",
+    "previous": "0.4%"
+   },
+   {
+    "day": "Thu Oct 15",
+    "time": "8:30am",
+    "event": "Retail Sales m/m",
+    "actual": "",
+    "forecast": "",
+    "previous": "1.2%"
+   },
+   {
+    "day": "Thu Oct 15",
+    "time": "8:30am",
+    "event": "Philly Fed Manufacturing Index",
+    "actual": "",
+    "forecast": "",
+    "previous": "37.8"
+   },
+   {
+    "day": "Thu Oct 15",
+    "time": "8:30am",
+    "event": "Unemployment Claims",
+    "actual": "",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "day": "Thu Oct 15",
+    "time": "8:30am",
+    "event": "Empire State Manufacturing Index",
+    "actual": "",
+    "forecast": "",
+    "previous": "7.6"
+   },
+   {
+    "day": "Thu Oct 15",
+    "time": "10:00am",
+    "event": "Business Inventories m/m",
+    "actual": "",
+    "forecast": "",
+    "previous": "0.8%"
+   },
+   {
+    "day": "Thu Oct 15",
+    "time": "10:30am",
+    "event": "Natural Gas Storage",
+    "actual": "",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "day": "Thu Oct 15",
+    "time": "12:00pm",
+    "event": "Crude Oil Inventories",
+    "actual": "",
+    "forecast": "",
+    "previous": ""
+   },
+   {
+    "day": "Fri Oct 16",
+    "time": "8:30am",
+    "event": "Import Prices m/m",
+    "actual": "",
+    "forecast": "",
+    "previous": "0.7%"
+   },
+   {
+    "day": "Fri Oct 16",
+    "time": "9:15am",
+    "event": "Capacity Utilization Rate",
+    "actual": "",
+    "forecast": "",
+    "previous": "76.3%"
+   },
+   {
+    "day": "Fri Oct 16",
+    "time": "9:15am",
+    "event": "Industrial Production m/m",
+    "actual": "",
+    "forecast": "",
+    "previous": "0.0%"
+   },
+   {
+    "day": "Fri Oct 16",
+    "time": "4:00pm",
+    "event": "TIC Long-Term Purchases",
+    "actual": "",
+    "forecast": "",
+    "previous": "-27.9B"
+   },
+   {
+    "day": "Fri Oct 16",
+    "time": "Tentative",
+    "event": "Treasury Currency Report",
+    "actual": "",
+    "forecast": "",
+    "previous": ""
+   }
+  ],
+  "Trading Economics (U.S.)": [
+   {
+    "day": "Monday October 05 2026",
+    "time": "01:20 PM",
+    "event": "ny fed bill purchases 4 to 12 months",
+    "country": "united states",
+    "actual": "",
+    "previous": "",
+    "consensus": "$1.946 billion",
+    "forecast": ""
+   },
+   {
+    "day": "Monday October 05 2026",
+    "time": "01:45 PM",
+    "event": "s&p global composite pmi final",
+    "country": "united states",
+    "actual": "58.4",
+    "previous": "56.0",
+    "consensus": "58.4",
+    "forecast": "58.4"
+   },
+   {
+    "day": "Monday October 05 2026",
+    "time": "01:45 PM",
+    "event": "s&p global services pmi final",
+    "country": "united states",
+    "actual": "58.8",
+    "previous": "56.5",
+    "consensus": "58.7",
+    "forecast": "58.7"
+   },
+   {
+    "day": "Monday October 05 2026",
+    "time": "02:00 PM",
+    "event": "ism services pmi",
+    "country": "united states",
+    "actual": "54.9",
+    "previous": "55.4",
+    "consensus": "55",
+    "forecast": "55"
+   },
+   {
+    "day": "Monday October 05 2026",
+    "time": "02:00 PM",
+    "event": "ism services business activity",
+    "country": "united states",
+    "actual": "56.5",
+    "previous": "61.7",
+    "consensus": "",
+    "forecast": "61.5"
+   },
+   {
+    "day": "Monday October 05 2026",
+    "time": "02:00 PM",
+    "event": "ism services employment",
+    "country": "united states",
+    "actual": "50.1",
+    "previous": "47.8",
+    "consensus": "",
+    "forecast": "48"
+   },
+   {
+    "day": "Monday October 05 2026",
+    "time": "02:00 PM",
+    "event": "ism services new orders",
+    "country": "united states",
+    "actual": "59.8",
+    "previous": "60.9",
+    "consensus": "",
+    "forecast": "60.3"
+   },
+   {
+    "day": "Monday October 05 2026",
+    "time": "02:00 PM",
+    "event": "ism services prices",
+    "country": "united states",
+    "actual": "74.0",
+    "previous": "72.6",
+    "consensus": "",
+    "forecast": "72.9"
+   },
+   {
+    "day": "Monday October 05 2026",
+    "time": "03:30 PM",
+    "event": "3-month bill auction",
+    "country": "united states",
+    "actual": "4.050%",
+    "previous": "4.110%",
+    "consensus": "",
+    "forecast": "4.1999%"
+   },
+   {
+    "day": "Monday October 05 2026",
+    "time": "03:30 PM",
+    "event": "6-month bill auction",
+    "country": "united states",
+    "actual": "4.165%",
+    "previous": "4.285%",
+    "consensus": "",
+    "forecast": ""
+   },
+   {
+    "day": "Tuesday October 06 2026",
+    "time": "10:00 AM",
+    "event": "lmi logistics managers index",
+    "country": "united states",
+    "actual": "",
+    "previous": "66.6",
+    "consensus": "",
+    "forecast": ""
+   },
+   {
+    "day": "Tuesday October 06 2026",
+    "time": "12:15 PM",
+    "event": "adp employment change weekly",
+    "country": "united states",
+    "actual": "",
+    "previous": "20K",
+    "consensus": "",
+    "forecast": ""
+   },
+   {
+    "day": "Tuesday October 06 2026",
+    "time": "12:30 PM",
+    "event": "balance of trade",
+    "country": "united states",
+    "actual": "",
+    "previous": "$-88.6B",
+    "consensus": "$-102B",
+    "forecast": "$-102.2B"
+   },
+   {
+    "day": "Tuesday October 06 2026",
+    "time": "12:30 PM",
+    "event": "exports",
+    "country": "united states",
+    "actual": "",
+    "previous": "$310.7B",
+    "consensus": "",
+    "forecast": "$314.6B"
+   },
+   {
+    "day": "Tuesday October 06 2026",
+    "time": "12:30 PM",
+    "event": "imports",
+    "country": "united states",
+    "actual": "",
+    "previous": "$399.3B",
+    "consensus": "",
+    "forecast": "$416.8B"
+   },
+   {
+    "day": "Tuesday October 06 2026",
+    "time": "12:55 PM",
+    "event": "redbook yoy",
+    "country": "united states",
+    "actual": "",
+    "previous": "8.2%",
+    "consensus": "",
+    "forecast": ""
+   },
+   {
+    "day": "Tuesday October 06 2026",
+    "time": "01:05 PM",
+    "event": "fed williams speech",
+    "country": "united states",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": ""
+   },
+   {
+    "day": "Tuesday October 06 2026",
+    "time": "02:00 PM",
+    "event": "rcm/tipp economic optimism index",
+    "country": "united states",
+    "actual": "",
+    "previous": "45.6",
+    "consensus": "44.5",
+    "forecast": "45.8"
+   },
+   {
+    "day": "Tuesday October 06 2026",
+    "time": "02:45 PM",
+    "event": "fed bowman speech",
+    "country": "united states",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": ""
+   },
+   {
+    "day": "Tuesday October 06 2026",
+    "time": "03:30 PM",
+    "event": "6-week bill auction",
+    "country": "united states",
+    "actual": "",
+    "previous": "3.970%",
+    "consensus": "",
+    "forecast": ""
+   },
+   {
+    "day": "Tuesday October 06 2026",
+    "time": "05:00 PM",
+    "event": "3-year note auction",
+    "country": "united states",
+    "actual": "",
+    "previous": "4.474%",
+    "consensus": "",
+    "forecast": ""
+   },
+   {
+    "day": "Tuesday October 06 2026",
+    "time": "08:30 PM",
+    "event": "api crude oil stock change",
+    "country": "united states",
+    "actual": "",
+    "previous": "1.019M",
+    "consensus": "",
+    "forecast": ""
+   },
+   {
+    "day": "Tuesday October 06 2026",
+    "time": "11:00 PM",
+    "event": "fed logan speech",
+    "country": "united states",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": ""
+   },
+   {
+    "day": "Wednesday October 07 2026",
+    "time": "11:00 AM",
+    "event": "mba 30-year mortgage rate",
+    "country": "united states",
+    "actual": "",
+    "previous": "7.3%",
+    "consensus": "",
+    "forecast": ""
+   },
+   {
+    "day": "Wednesday October 07 2026",
+    "time": "11:00 AM",
+    "event": "mba mortgage applications",
+    "country": "united states",
+    "actual": "",
+    "previous": "-6%",
+    "consensus": "",
+    "forecast": ""
+   },
+   {
+    "day": "Wednesday October 07 2026",
+    "time": "11:00 AM",
+    "event": "mba mortgage market index",
+    "country": "united states",
+    "actual": "",
+    "previous": "213.6",
+    "consensus": "",
+    "forecast": ""
+   },
+   {
+    "day": "Wednesday October 07 2026",
+    "time": "11:00 AM",
+    "event": "mba mortgage refinance index",
+    "country": "united states",
+    "actual": "",
+    "previous": "557.8",
+    "consensus": "",
+    "forecast": ""
+   },
+   {
+    "day": "Wednesday October 07 2026",
+    "time": "11:00 AM",
+    "event": "mba purchase index",
+    "country": "united states",
+    "actual": "",
+    "previous": "148.2",
+    "consensus": "",
+    "forecast": ""
+   },
+   {
+    "day": "Wednesday October 07 2026",
+    "time": "01:00 PM",
+    "event": "used car prices mom",
+    "country": "united states",
+    "actual": "",
+    "previous": "-0.9%",
+    "consensus": "",
+    "forecast": ""
+   },
+   {
+    "day": "Wednesday October 07 2026",
+    "time": "01:00 PM",
+    "event": "used car prices yoy",
+    "country": "united states",
+    "actual": "",
+    "previous": "0.4%",
+    "consensus": "",
+    "forecast": ""
+   },
+   {
+    "day": "Wednesday October 07 2026",
+    "time": "02:30 PM",
+    "event": "eia crude oil stocks change",
+    "country": "united states",
+    "actual": "",
+    "previous": "0.922M",
+    "consensus": "",
+    "forecast": ""
+   },
+   {
+    "day": "Wednesday October 07 2026",
+    "time": "02:30 PM",
+    "event": "eia gasoline stocks change",
+    "country": "united states",
+    "actual": "",
+    "previous": "-1.684M",
+    "consensus": "",
+    "forecast": ""
+   },
+   {
+    "day": "Wednesday October 07 2026",
+    "time": "02:30 PM",
+    "event": "eia crude oil imports change",
+    "country": "united states",
+    "actual": "",
+    "previous": "-0.468M",
+    "consensus": "",
+    "forecast": ""
+   },
+   {
+    "day": "Wednesday October 07 2026",
+    "time": "02:30 PM",
+    "event": "eia cushing crude oil stocks change",
+    "country": "united states",
+    "actual": "",
+    "previous": "0.553M",
+    "consensus": "",
+    "forecast": ""
+   },
+   {
+    "day": "Wednesday October 07 2026",
+    "time": "02:30 PM",
+    "event": "eia distillate fuel production change",
+    "country": "united states",
+    "actual": "",
+    "previous": "-0.156M",
+    "consensus": "",
+    "forecast": ""
+   },
+   {
+    "day": "Wednesday October 07 2026",
+    "time": "02:30 PM",
+    "event": "eia distillate stocks change",
+    "country": "united states",
+    "actual": "",
+    "previous": "-2.251M",
+    "consensus": "",
+    "forecast": ""
+   },
+   {
+    "day": "Wednesday October 07 2026",
+    "time": "02:30 PM",
+    "event": "eia gasoline production change",
+    "country": "united states",
+    "actual": "",
+    "previous": "-0.124M",
+    "consensus": "",
+    "forecast": ""
+   },
+   {
+    "day": "Wednesday October 07 2026",
+    "time": "02:30 PM",
+    "event": "eia heating oil stocks change",
+    "country": "united states",
+    "actual": "",
+    "previous": "-0.62M",
+    "consensus": "",
+    "forecast": ""
+   },
+   {
+    "day": "Wednesday October 07 2026",
+    "time": "02:30 PM",
+    "event": "eia refinery crude runs change",
+    "country": "united states",
+    "actual": "",
+    "previous": "-0.554M",
+    "consensus": "",
+    "forecast": ""
+   },
+   {
+    "day": "Wednesday October 07 2026",
+    "time": "03:00 PM",
+    "event": "consumer inflation expectations",
+    "country": "united states",
+    "actual": "",
+    "previous": "3.6%",
+    "consensus": "",
+    "forecast": "3.7%"
+   },
+   {
+    "day": "Wednesday October 07 2026",
+    "time": "03:30 PM",
+    "event": "17-week bill auction",
+    "country": "united states",
+    "actual": "",
+    "previous": "4.115%",
+    "consensus": "",
+    "forecast": ""
+   },
+   {
+    "day": "Wednesday October 07 2026",
+    "time": "05:00 PM",
+    "event": "10-year note auction",
+    "country": "united states",
+    "actual": "",
+    "previous": "4.834%",
+    "consensus": "",
+    "forecast": ""
+   },
+   {
+    "day": "Wednesday October 07 2026",
+    "time": "06:00 PM",
+    "event": "fomc minutes",
+    "country": "united states",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": ""
+   },
+   {
+    "day": "Wednesday October 07 2026",
+    "time": "07:00 PM",
+    "event": "consumer credit change",
+    "country": "united states",
+    "actual": "",
+    "previous": "$18.06B",
+    "consensus": "$15B",
+    "forecast": "$14.0B"
+   },
+   {
+    "day": "Thursday October 08 2026",
+    "time": "12:30 PM",
+    "event": "initial jobless claims",
+    "country": "united states",
+    "actual": "",
+    "previous": "197K",
+    "consensus": "200K",
+    "forecast": "200.0K"
+   },
+   {
+    "day": "Thursday October 08 2026",
+    "time": "12:30 PM",
+    "event": "continuing jobless claims",
+    "country": "united states",
+    "actual": "",
+    "previous": "1701K",
+    "consensus": "1710K",
+    "forecast": "1710.0K"
+   },
+   {
+    "day": "Thursday October 08 2026",
+    "time": "12:30 PM",
+    "event": "jobless claims 4-week average",
+    "country": "united states",
+    "actual": "",
+    "previous": "200K",
+    "consensus": "",
+    "forecast": "198.0K"
+   },
+   {
+    "day": "Thursday October 08 2026",
+    "time": "01:20 PM",
+    "event": "ny fed bill purchases 1 to 4 months",
+    "country": "united states",
+    "actual": "",
+    "previous": "",
+    "consensus": "$3.891 billion",
+    "forecast": ""
+   },
+   {
+    "day": "Thursday October 08 2026",
+    "time": "02:00 PM",
+    "event": "wholesale inventories mom",
+    "country": "united states",
+    "actual": "",
+    "previous": "1.3%",
+    "consensus": "0.7%",
+    "forecast": "0.7%"
+   },
+   {
+    "day": "Thursday October 08 2026",
+    "time": "02:30 PM",
+    "event": "eia natural gas stocks change",
+    "country": "united states",
+    "actual": "",
+    "previous": "64Bcf",
+    "consensus": "",
+    "forecast": ""
+   },
+   {
+    "day": "Thursday October 08 2026",
+    "time": "03:30 PM",
+    "event": "4-week bill auction",
+    "country": "united states",
+    "actual": "",
+    "previous": "3.89%",
+    "consensus": "",
+    "forecast": ""
+   },
+   {
+    "day": "Thursday October 08 2026",
+    "time": "03:30 PM",
+    "event": "8-week bill auction",
+    "country": "united states",
+    "actual": "",
+    "previous": "3.99%",
+    "consensus": "",
+    "forecast": ""
+   },
+   {
+    "day": "Thursday October 08 2026",
+    "time": "04:00 PM",
+    "event": "15-year mortgage rate",
+    "country": "united states",
+    "actual": "",
+    "previous": "6.60%",
+    "consensus": "",
+    "forecast": ""
+   },
+   {
+    "day": "Thursday October 08 2026",
+    "time": "04:00 PM",
+    "event": "30-year mortgage rate",
+    "country": "united states",
+    "actual": "",
+    "previous": "7.28%",
+    "consensus": "",
+    "forecast": ""
+   },
+   {
+    "day": "Thursday October 08 2026",
+    "time": "05:00 PM",
+    "event": "30-year bond auction",
+    "country": "united states",
+    "actual": "",
+    "previous": "5.308%",
+    "consensus": "",
+    "forecast": ""
+   },
+   {
+    "day": "Thursday October 08 2026",
+    "time": "05:40 PM",
+    "event": "fed musalem speech",
+    "country": "united states",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": ""
+   },
+   {
+    "day": "Thursday October 08 2026",
+    "time": "08:30 PM",
+    "event": "fed balance sheet",
+    "country": "united states",
+    "actual": "",
+    "previous": "$6.743T",
+    "consensus": "",
+    "forecast": ""
+   },
+   {
+    "day": "Friday October 09 2026",
+    "time": "02:00 PM",
+    "event": "michigan consumer sentiment prel",
+    "country": "united states",
+    "actual": "",
+    "previous": "48.1",
+    "consensus": "47.6",
+    "forecast": "48.6"
+   },
+   {
+    "day": "Friday October 09 2026",
+    "time": "02:00 PM",
+    "event": "michigan 5 year inflation expectations prel",
+    "country": "united states",
+    "actual": "",
+    "previous": "3.4%",
+    "consensus": "",
+    "forecast": "3.5%"
+   },
+   {
+    "day": "Friday October 09 2026",
+    "time": "02:00 PM",
+    "event": "michigan consumer expectations prel",
+    "country": "united states",
+    "actual": "",
+    "previous": "46.3",
+    "consensus": "45.9",
+    "forecast": "46.5"
+   },
+   {
+    "day": "Friday October 09 2026",
+    "time": "02:00 PM",
+    "event": "michigan current conditions prel",
+    "country": "united states",
+    "actual": "",
+    "previous": "50.9",
+    "consensus": "50.5",
+    "forecast": "51"
+   },
+   {
+    "day": "Friday October 09 2026",
+    "time": "02:00 PM",
+    "event": "michigan inflation expectations prel",
+    "country": "united states",
+    "actual": "",
+    "previous": "4.6%",
+    "consensus": "",
+    "forecast": "4.7%"
+   },
+   {
+    "day": "Friday October 09 2026",
+    "time": "04:00 PM",
+    "event": "wasde report",
+    "country": "united states",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": ""
+   },
+   {
+    "day": "Friday October 09 2026",
+    "time": "05:00 PM",
+    "event": "baker hughes oil rig count",
+    "country": "united states",
+    "actual": "",
+    "previous": "456",
+    "consensus": "",
+    "forecast": ""
+   },
+   {
+    "day": "Friday October 09 2026",
+    "time": "05:00 PM",
+    "event": "baker hughes total rigs count",
+    "country": "united states",
+    "actual": "",
+    "previous": "598",
+    "consensus": "",
+    "forecast": ""
+   },
+   {
+    "day": "Friday October 09 2026",
+    "time": "08:00 PM",
+    "event": "fed collins speech",
+    "country": "united states",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": ""
+   },
+   {
+    "day": "Monday October 12 2026",
+    "time": "06:00 PM",
+    "event": "monthly budget statement",
+    "country": "united states",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": ""
+   },
+   {
+    "day": "Tuesday October 13 2026",
+    "time": "10:00 AM",
+    "event": "nfib business optimism index",
+    "country": "united states",
+    "actual": "",
+    "previous": "98.7",
+    "consensus": "",
+    "forecast": "96"
+   },
+   {
+    "day": "Tuesday October 13 2026",
+    "time": "12:15 PM",
+    "event": "adp employment change weekly",
+    "country": "united states",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": ""
+   },
+   {
+    "day": "Tuesday October 13 2026",
+    "time": "12:55 PM",
+    "event": "redbook yoy",
+    "country": "united states",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": ""
+   },
+   {
+    "day": "Tuesday October 13 2026",
+    "time": "02:00 PM",
+    "event": "existing home sales",
+    "country": "united states",
+    "actual": "",
+    "previous": "3.98M",
+    "consensus": "",
+    "forecast": ""
+   },
+   {
+    "day": "Tuesday October 13 2026",
+    "time": "02:00 PM",
+    "event": "existing home sales mom",
+    "country": "united states",
+    "actual": "",
+    "previous": "-2%",
+    "consensus": "",
+    "forecast": ""
+   },
+   {
+    "day": "Tuesday October 13 2026",
+    "time": "03:30 PM",
+    "event": "3-month bill auction",
+    "country": "united states",
+    "actual": "",
+    "previous": "4.050%",
+    "consensus": "",
+    "forecast": "4.0999%"
+   },
+   {
+    "day": "Tuesday October 13 2026",
+    "time": "03:30 PM",
+    "event": "6-month bill auction",
+    "country": "united states",
+    "actual": "",
+    "previous": "4.165%",
+    "consensus": "",
+    "forecast": ""
+   },
+   {
+    "day": "Tuesday October 13 2026",
+    "time": "03:30 PM",
+    "event": "6-week bill auction",
+    "country": "united states",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": ""
+   },
+   {
+    "day": "Wednesday October 14 2026",
+    "time": "11:00 AM",
+    "event": "mba 30-year mortgage rate",
+    "country": "united states",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": ""
+   },
+   {
+    "day": "Wednesday October 14 2026",
+    "time": "11:00 AM",
+    "event": "mba mortgage applications",
+    "country": "united states",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": ""
+   },
+   {
+    "day": "Wednesday October 14 2026",
+    "time": "11:00 AM",
+    "event": "mba mortgage market index",
+    "country": "united states",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": ""
+   },
+   {
+    "day": "Wednesday October 14 2026",
+    "time": "11:00 AM",
+    "event": "mba mortgage refinance index",
+    "country": "united states",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": ""
+   },
+   {
+    "day": "Wednesday October 14 2026",
+    "time": "11:00 AM",
+    "event": "mba purchase index",
+    "country": "united states",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": ""
+   },
+   {
+    "day": "Wednesday October 14 2026",
+    "time": "12:30 PM",
+    "event": "core inflation rate mom",
+    "country": "united states",
+    "actual": "",
+    "previous": "0.3%",
+    "consensus": "",
+    "forecast": "0.3%"
+   },
+   {
+    "day": "Wednesday October 14 2026",
+    "time": "12:30 PM",
+    "event": "core inflation rate yoy",
+    "country": "united states",
+    "actual": "",
+    "previous": "2.4%",
+    "consensus": "",
+    "forecast": "2.5%"
+   },
+   {
+    "day": "Wednesday October 14 2026",
+    "time": "12:30 PM",
+    "event": "inflation rate mom",
+    "country": "united states",
+    "actual": "",
+    "previous": "0.4%",
+    "consensus": "",
+    "forecast": "0.5%"
+   },
+   {
+    "day": "Wednesday October 14 2026",
+    "time": "12:30 PM",
+    "event": "inflation rate yoy",
+    "country": "united states",
+    "actual": "",
+    "previous": "3.4%",
+    "consensus": "",
+    "forecast": "3.7%"
+   },
+   {
+    "day": "Wednesday October 14 2026",
+    "time": "12:30 PM",
+    "event": "cpi",
+    "country": "united states",
+    "actual": "",
+    "previous": "334.98",
+    "consensus": "",
+    "forecast": "336.8"
+   },
+   {
+    "day": "Wednesday October 14 2026",
+    "time": "12:30 PM",
+    "event": "cpi s.a",
+    "country": "united states",
+    "actual": "",
+    "previous": "334.131",
+    "consensus": "",
+    "forecast": "335.8"
+   },
+   {
+    "day": "Wednesday October 14 2026",
+    "time": "03:30 PM",
+    "event": "17-week bill auction",
+    "country": "united states",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": ""
+   },
+   {
+    "day": "Wednesday October 14 2026",
+    "time": "06:00 PM",
+    "event": "fed beige book",
+    "country": "united states",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": ""
+   },
+   {
+    "day": "Wednesday October 14 2026",
+    "time": "08:30 PM",
+    "event": "api crude oil stock change",
+    "country": "united states",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": ""
+   },
+   {
+    "day": "Thursday October 15 2026",
+    "time": "12:30 PM",
+    "event": "ppi mom",
+    "country": "united states",
+    "actual": "",
+    "previous": "0.4%",
+    "consensus": "",
+    "forecast": "0.5%"
+   }
+  ]
+ }
+}
