@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-05T15:32:06Z",
- "last_success": "2026-10-05T15:32:06Z",
+ "updated_at": "2026-10-05T18:34:08Z",
+ "last_success": "2026-10-05T18:34:08Z",
  "ok": {
   "thisweek": true,
   "nextweek": false,
@@ -11,13 +11,13 @@
   "nextweek": "HTTP Error 404: Not Found",
   "spdji_eps": "HTTP Error 403: Forbidden"
  },
- "count": 20,
- "fed_speeches": 3,
+ "count": 22,
+ "fed_speeches": 5,
  "pe": {
   "factset": {
    "value": 19.0,
    "source": "https://insight.factset.com/sp-500-earnings-season-preview-q3-2026",
-   "as_of": "2026-10-05T15:32:06Z"
+   "as_of": "2026-10-05T18:34:08Z"
   }
  },
  "events": [
@@ -53,7 +53,7 @@
    "title": "Trade Balance",
    "date": "2026-10-06T08:30:00-04:00",
    "impact": "Low",
-   "forecast": "-95.2B",
+   "forecast": "-100.8B",
    "previous": "-88.6B"
   },
   {
@@ -66,6 +66,13 @@
   {
    "title": "FOMC Member Bowman Speaks",
    "date": "2026-10-06T10:45:00-04:00",
+   "impact": "Low",
+   "forecast": "",
+   "previous": ""
+  },
+  {
+   "title": "FOMC Member Schmid Speaks",
+   "date": "2026-10-06T13:15:00-04:00",
    "impact": "Low",
    "forecast": "",
    "previous": ""
@@ -104,6 +111,13 @@
    "impact": "Low",
    "forecast": "15.4B",
    "previous": "18.1B"
+  },
+  {
+   "title": "FOMC Member Waller Speaks",
+   "date": "2026-10-08T04:30:00-04:00",
+   "impact": "Medium",
+   "forecast": "",
+   "previous": ""
   },
   {
    "title": "Unemployment Claims",
