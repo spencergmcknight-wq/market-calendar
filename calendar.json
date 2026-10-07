@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-10-07T03:29:19Z",
- "last_success": "2026-10-07T03:29:19Z",
+ "updated_at": "2026-10-07T06:33:54Z",
+ "last_success": "2026-10-07T06:33:54Z",
  "ok": {
   "feed": true,
   "ff_this": true,
   "ff_next": true
  },
  "errors": {},
- "count": 49,
- "fed_speeches": 5,
+ "count": 50,
+ "fed_speeches": 6,
  "actuals": 6,
  "next_week_added": 27,
  "events": [
@@ -93,6 +93,13 @@
    "impact": "Low",
    "forecast": "1.9M",
    "previous": "0.9M"
+  },
+  {
+   "title": "President Trump Speaks",
+   "date": "2026-10-07T13:00:00-04:00",
+   "impact": "Medium",
+   "forecast": "",
+   "previous": ""
   },
   {
    "title": "10-y Bond Auction",
