@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-07T13:56:13Z",
- "last_success": "2026-10-07T13:56:13Z",
+ "updated_at": "2026-10-07T14:08:56Z",
+ "last_success": "2026-10-07T14:08:56Z",
  "ok": {
   "feed": true,
   "ff_this": true,
@@ -201,140 +201,140 @@
   },
   {
    "title": "NFIB Small Business Index",
-   "date": "2026-10-13T06:00:00-04:00",
+   "date": "2026-10-13T05:00:00-04:00",
    "impact": "Low",
    "forecast": "",
    "previous": "98.7"
   },
   {
    "title": "ADP Weekly Employment Change",
-   "date": "2026-10-13T08:15:00-04:00",
+   "date": "2026-10-13T07:15:00-04:00",
    "impact": "Low",
    "forecast": "",
    "previous": ""
   },
   {
    "title": "Existing Home Sales",
-   "date": "2026-10-13T10:00:00-04:00",
+   "date": "2026-10-13T09:00:00-04:00",
    "impact": "Low",
    "forecast": "",
    "previous": "3.98M"
   },
   {
    "title": "Federal Budget Balance",
-   "date": "2026-10-13T14:00:00-04:00",
+   "date": "2026-10-13T13:00:00-04:00",
    "impact": "Low",
    "forecast": "",
    "previous": "-166.8B"
   },
   {
    "title": "Core CPI m/m",
-   "date": "2026-10-14T08:30:00-04:00",
+   "date": "2026-10-14T07:30:00-04:00",
    "impact": "High",
    "forecast": "",
    "previous": "0.3%"
   },
   {
    "title": "Core CPI y/y",
-   "date": "2026-10-14T08:30:00-04:00",
+   "date": "2026-10-14T07:30:00-04:00",
    "impact": "High",
    "forecast": "",
    "previous": "2.4%"
   },
   {
    "title": "CPI m/m",
-   "date": "2026-10-14T08:30:00-04:00",
+   "date": "2026-10-14T07:30:00-04:00",
    "impact": "High",
    "forecast": "",
    "previous": "0.4%"
   },
   {
    "title": "CPI y/y",
-   "date": "2026-10-14T08:30:00-04:00",
+   "date": "2026-10-14T07:30:00-04:00",
    "impact": "High",
    "forecast": "",
    "previous": "3.4%"
   },
   {
    "title": "Beige Book",
-   "date": "2026-10-14T14:00:00-04:00",
+   "date": "2026-10-14T13:00:00-04:00",
    "impact": "Low",
    "forecast": "",
    "previous": ""
   },
   {
    "title": "API Weekly Statistical Bulletin",
-   "date": "2026-10-14T16:30:00-04:00",
+   "date": "2026-10-14T15:30:00-04:00",
    "impact": "Low",
    "forecast": "",
    "previous": ""
   },
   {
    "title": "Core PPI m/m",
-   "date": "2026-10-15T08:30:00-04:00",
+   "date": "2026-10-15T07:30:00-04:00",
    "impact": "High",
    "forecast": "",
    "previous": "0.2%"
   },
   {
    "title": "Core Retail Sales m/m",
-   "date": "2026-10-15T08:30:00-04:00",
+   "date": "2026-10-15T07:30:00-04:00",
    "impact": "High",
    "forecast": "",
    "previous": "1.4%"
   },
   {
    "title": "PPI m/m",
-   "date": "2026-10-15T08:30:00-04:00",
+   "date": "2026-10-15T07:30:00-04:00",
    "impact": "High",
    "forecast": "",
    "previous": "0.4%"
   },
   {
    "title": "Retail Sales m/m",
-   "date": "2026-10-15T08:30:00-04:00",
+   "date": "2026-10-15T07:30:00-04:00",
    "impact": "High",
    "forecast": "",
    "previous": "1.2%"
   },
   {
    "title": "Philly Fed Manufacturing Index",
-   "date": "2026-10-15T08:30:00-04:00",
+   "date": "2026-10-15T07:30:00-04:00",
    "impact": "Medium",
    "forecast": "",
    "previous": "37.8"
   },
   {
    "title": "Unemployment Claims",
-   "date": "2026-10-15T08:30:00-04:00",
+   "date": "2026-10-15T07:30:00-04:00",
    "impact": "Medium",
    "forecast": "",
    "previous": ""
   },
   {
    "title": "Empire State Manufacturing Index",
-   "date": "2026-10-15T08:30:00-04:00",
+   "date": "2026-10-15T07:30:00-04:00",
    "impact": "Low",
    "forecast": "",
    "previous": "7.6"
   },
   {
    "title": "Business Inventories m/m",
-   "date": "2026-10-15T10:00:00-04:00",
+   "date": "2026-10-15T09:00:00-04:00",
    "impact": "Low",
    "forecast": "",
    "previous": "0.8%"
   },
   {
    "title": "Natural Gas Storage",
-   "date": "2026-10-15T10:30:00-04:00",
+   "date": "2026-10-15T09:30:00-04:00",
    "impact": "Low",
    "forecast": "",
    "previous": ""
   },
   {
    "title": "Crude Oil Inventories",
-   "date": "2026-10-15T12:00:00-04:00",
+   "date": "2026-10-15T11:00:00-04:00",
    "impact": "Low",
    "forecast": "",
    "previous": ""
@@ -348,28 +348,28 @@
   },
   {
    "title": "Import Prices m/m",
-   "date": "2026-10-16T08:30:00-04:00",
+   "date": "2026-10-16T07:30:00-04:00",
    "impact": "Low",
    "forecast": "",
    "previous": "0.7%"
   },
   {
    "title": "Capacity Utilization Rate",
-   "date": "2026-10-16T09:15:00-04:00",
+   "date": "2026-10-16T08:15:00-04:00",
    "impact": "Low",
    "forecast": "",
    "previous": "76.3%"
   },
   {
    "title": "Industrial Production m/m",
-   "date": "2026-10-16T09:15:00-04:00",
+   "date": "2026-10-16T08:15:00-04:00",
    "impact": "Low",
    "forecast": "",
    "previous": "0.0%"
   },
   {
    "title": "TIC Long-Term Purchases",
-   "date": "2026-10-16T16:00:00-04:00",
+   "date": "2026-10-16T15:00:00-04:00",
    "impact": "Low",
    "forecast": "",
    "previous": "-27.9B"
