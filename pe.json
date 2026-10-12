@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-09T21:50:31Z",
+ "updated_at": "2026-10-12T21:51:04Z",
  "ok": {
   "factset": true,
   "spdji": false
@@ -10,7 +10,7 @@
  "factset": {
   "value": 19.1,
   "source": "Earnings Insight 2026-10-09",
-  "as_of": "2026-10-09T21:50:31Z"
+  "as_of": "2026-10-12T21:51:04Z"
  },
  "spdji": {}
 }
