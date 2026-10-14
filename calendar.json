@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-14T13:08:00Z",
- "last_success": "2026-10-14T13:08:00Z",
+ "updated_at": "2026-10-14T13:44:29Z",
+ "last_success": "2026-10-14T13:44:29Z",
  "ok": {
   "feed": true,
   "ff_this": true,
@@ -212,14 +212,14 @@
    "title": "Natural Gas Storage",
    "date": "2026-10-15T10:30:00-04:00",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "76B",
    "previous": "85B"
   },
   {
    "title": "Crude Oil Inventories",
    "date": "2026-10-15T12:00:00-04:00",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "-0.2M",
    "previous": "-3.2M"
   },
   {
