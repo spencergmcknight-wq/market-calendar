@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-15T12:20:43Z",
- "last_success": "2026-10-15T12:20:43Z",
+ "updated_at": "2026-10-15T12:53:12Z",
+ "last_success": "2026-10-15T12:53:12Z",
  "ok": {
   "feed": true,
   "ff_this": true,
@@ -9,7 +9,7 @@
  "errors": {},
  "count": 51,
  "fed_speeches": 10,
- "actuals": 7,
+ "actuals": 14,
  "next_week_added": 16,
  "events": [
   {
@@ -157,49 +157,63 @@
    "date": "2026-10-15T08:30:00-04:00",
    "impact": "High",
    "forecast": "0.3%",
-   "previous": "0.2%"
+   "previous": "0.2%",
+   "actual": "0.7%",
+   "actual_source": "ForexFactory"
   },
   {
    "title": "Core Retail Sales m/m",
    "date": "2026-10-15T08:30:00-04:00",
    "impact": "High",
    "forecast": "0.6%",
-   "previous": "1.4%"
+   "previous": "1.4%",
+   "actual": "0.9%",
+   "actual_source": "ForexFactory"
   },
   {
    "title": "PPI m/m",
    "date": "2026-10-15T08:30:00-04:00",
    "impact": "High",
    "forecast": "0.6%",
-   "previous": "0.4%"
+   "previous": "0.5%",
+   "actual": "1.3%",
+   "actual_source": "ForexFactory"
   },
   {
    "title": "Retail Sales m/m",
    "date": "2026-10-15T08:30:00-04:00",
    "impact": "High",
    "forecast": "0.3%",
-   "previous": "1.2%"
+   "previous": "1.3%",
+   "actual": "0.8%",
+   "actual_source": "ForexFactory"
   },
   {
    "title": "Philly Fed Manufacturing Index",
    "date": "2026-10-15T08:30:00-04:00",
    "impact": "Medium",
    "forecast": "28.2",
-   "previous": "37.8"
+   "previous": "37.8",
+   "actual": "20.9",
+   "actual_source": "ForexFactory"
   },
   {
    "title": "Unemployment Claims",
    "date": "2026-10-15T08:30:00-04:00",
    "impact": "Medium",
    "forecast": "199K",
-   "previous": "197K"
+   "previous": "198K",
+   "actual": "199K",
+   "actual_source": "ForexFactory"
   },
   {
    "title": "Empire State Manufacturing Index",
    "date": "2026-10-15T08:30:00-04:00",
    "impact": "Low",
    "forecast": "12.1",
-   "previous": "7.6"
+   "previous": "7.6",
+   "actual": "25.5",
+   "actual_source": "ForexFactory"
   },
   {
    "title": "Business Inventories m/m",
