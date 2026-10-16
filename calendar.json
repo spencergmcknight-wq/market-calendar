@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-16T15:40:42Z",
- "last_success": "2026-10-16T15:40:42Z",
+ "updated_at": "2026-10-16T15:56:55Z",
+ "last_success": "2026-10-16T15:56:55Z",
  "ok": {
   "feed": true,
   "ff_this": true,
@@ -299,98 +299,98 @@
   },
   {
    "title": "NAHB Housing Market Index",
-   "date": "2026-10-19T15:00:00-04:00",
+   "date": "2026-10-19T09:00:00-04:00",
    "impact": "Low",
    "forecast": "31",
    "previous": "32"
   },
   {
    "title": "ADP Weekly Employment Change",
-   "date": "2026-10-20T13:15:00-04:00",
+   "date": "2026-10-20T07:15:00-04:00",
    "impact": "Low",
    "forecast": "",
    "previous": ""
   },
   {
    "title": "Building Permits",
-   "date": "2026-10-20T13:30:00-04:00",
+   "date": "2026-10-20T07:30:00-04:00",
    "impact": "Low",
    "forecast": "1.39M",
    "previous": "1.39M"
   },
   {
    "title": "Housing Starts",
-   "date": "2026-10-20T13:30:00-04:00",
+   "date": "2026-10-20T07:30:00-04:00",
    "impact": "Low",
    "forecast": "1.30M",
    "previous": "1.28M"
   },
   {
    "title": "Pending Home Sales m/m",
-   "date": "2026-10-20T15:00:00-04:00",
+   "date": "2026-10-20T09:00:00-04:00",
    "impact": "Low",
    "forecast": "0.0%",
    "previous": "0.3%"
   },
   {
    "title": "API Weekly Statistical Bulletin",
-   "date": "2026-10-20T21:30:00-04:00",
+   "date": "2026-10-20T15:30:00-04:00",
    "impact": "Low",
    "forecast": "",
    "previous": ""
   },
   {
    "title": "Crude Oil Inventories",
-   "date": "2026-10-21T15:30:00-04:00",
+   "date": "2026-10-21T09:30:00-04:00",
    "impact": "Low",
    "forecast": "",
    "previous": "-8.6M"
   },
   {
    "title": "Unemployment Claims",
-   "date": "2026-10-22T13:30:00-04:00",
+   "date": "2026-10-22T07:30:00-04:00",
    "impact": "Medium",
    "forecast": "200K",
    "previous": "199K"
   },
   {
    "title": "CB Leading Index m/m",
-   "date": "2026-10-22T15:00:00-04:00",
+   "date": "2026-10-22T09:00:00-04:00",
    "impact": "Low",
    "forecast": "-0.2%",
    "previous": "-0.1%"
   },
   {
    "title": "Natural Gas Storage",
-   "date": "2026-10-22T15:30:00-04:00",
+   "date": "2026-10-22T09:30:00-04:00",
    "impact": "Low",
    "forecast": "",
    "previous": "67B"
   },
   {
    "title": "Flash Manufacturing PMI",
-   "date": "2026-10-23T14:45:00-04:00",
+   "date": "2026-10-23T08:45:00-04:00",
    "impact": "Medium",
    "forecast": "55.6",
    "previous": "55.9"
   },
   {
    "title": "Flash Services PMI",
-   "date": "2026-10-23T14:45:00-04:00",
+   "date": "2026-10-23T08:45:00-04:00",
    "impact": "Medium",
    "forecast": "57.9",
    "previous": "58.8"
   },
   {
    "title": "Revised UoM Consumer Sentiment",
-   "date": "2026-10-23T15:00:00-04:00",
+   "date": "2026-10-23T09:00:00-04:00",
    "impact": "Medium",
    "forecast": "46.3",
    "previous": "46.3"
   },
   {
    "title": "Revised UoM Inflation Expectations",
-   "date": "2026-10-23T15:00:00-04:00",
+   "date": "2026-10-23T09:00:00-04:00",
    "impact": "Medium",
    "forecast": "",
    "previous": "4.7%"
