@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-16T06:51:12Z",
- "last_success": "2026-10-16T06:51:12Z",
+ "updated_at": "2026-10-16T09:40:45Z",
+ "last_success": "2026-10-16T09:40:45Z",
  "ok": {
   "feed": true,
   "ff_this": true,
@@ -295,7 +295,7 @@
    "title": "NAHB Housing Market Index",
    "date": "2026-10-19T07:00:00-04:00",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "31",
    "previous": "32"
   },
   {
@@ -309,21 +309,21 @@
    "title": "Building Permits",
    "date": "2026-10-20T05:30:00-04:00",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "1.39M",
    "previous": "1.39M"
   },
   {
    "title": "Housing Starts",
    "date": "2026-10-20T05:30:00-04:00",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "1.30M",
    "previous": "1.28M"
   },
   {
    "title": "Pending Home Sales m/m",
    "date": "2026-10-20T07:00:00-04:00",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "0.0%",
    "previous": "0.3%"
   },
   {
@@ -338,20 +338,20 @@
    "date": "2026-10-21T07:30:00-04:00",
    "impact": "Low",
    "forecast": "",
-   "previous": ""
+   "previous": "-8.6M"
   },
   {
    "title": "Unemployment Claims",
    "date": "2026-10-22T05:30:00-04:00",
    "impact": "Medium",
-   "forecast": "",
+   "forecast": "200K",
    "previous": "199K"
   },
   {
    "title": "CB Leading Index m/m",
    "date": "2026-10-22T07:00:00-04:00",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "-0.2%",
    "previous": "-0.1%"
   },
   {
@@ -365,21 +365,21 @@
    "title": "Flash Manufacturing PMI",
    "date": "2026-10-23T06:45:00-04:00",
    "impact": "Medium",
-   "forecast": "",
+   "forecast": "55.6",
    "previous": "55.9"
   },
   {
    "title": "Flash Services PMI",
    "date": "2026-10-23T06:45:00-04:00",
    "impact": "Medium",
-   "forecast": "",
+   "forecast": "57.9",
    "previous": "58.8"
   },
   {
    "title": "Revised UoM Consumer Sentiment",
    "date": "2026-10-23T07:00:00-04:00",
    "impact": "Medium",
-   "forecast": "",
+   "forecast": "46.3",
    "previous": "46.3"
   },
   {
