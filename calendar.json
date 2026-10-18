@@ -1,403 +1,289 @@
 {
- "updated_at": "2026-10-18T03:38:49Z",
- "last_success": "2026-10-18T03:38:49Z",
+ "updated_at": "2026-10-18T06:46:04Z",
+ "last_success": "2026-10-18T06:46:04Z",
  "ok": {
   "feed": true,
   "ff_this": true,
   "ff_next": true
  },
  "errors": {},
- "count": 49,
- "fed_speeches": 10,
- "actuals": 22,
- "next_week_added": 14,
+ "count": 39,
+ "fed_speeches": 0,
+ "actuals": 0,
+ "next_week_added": 25,
  "events": [
   {
-   "title": "Bank Holiday",
-   "date": "2026-10-12T07:00:00-04:00",
-   "impact": "Holiday",
-   "forecast": "",
-   "previous": ""
-  },
-  {
-   "title": "FOMC Member Hammack Speaks",
-   "date": "2026-10-12T12:10:00-04:00",
-   "impact": "Low",
-   "forecast": "",
-   "previous": ""
-  },
-  {
-   "title": "FOMC Member Waller Speaks",
-   "date": "2026-10-13T03:45:00-04:00",
-   "impact": "Low",
-   "forecast": "",
-   "previous": ""
-  },
-  {
-   "title": "NFIB Small Business Index",
-   "date": "2026-10-13T06:00:00-04:00",
-   "impact": "Low",
-   "forecast": "98.1",
-   "previous": "98.7",
-   "actual": "97.9",
-   "actual_source": "ForexFactory"
-  },
-  {
-   "title": "ADP Weekly Employment Change",
-   "date": "2026-10-13T08:15:00-04:00",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "25.3K",
-   "actual": "24.8K",
-   "actual_source": "ForexFactory"
-  },
-  {
-   "title": "Existing Home Sales",
-   "date": "2026-10-13T10:00:00-04:00",
-   "impact": "Low",
-   "forecast": "3.95M",
-   "previous": "3.93M",
-   "actual": "3.99M",
-   "actual_source": "ForexFactory"
-  },
-  {
-   "title": "FOMC Member Barkin Speaks",
-   "date": "2026-10-13T13:00:00-04:00",
-   "impact": "Low",
-   "forecast": "",
-   "previous": ""
-  },
-  {
-   "title": "FOMC Member Collins Speaks",
-   "date": "2026-10-13T16:00:00-04:00",
-   "impact": "Low",
-   "forecast": "",
-   "previous": ""
-  },
-  {
-   "title": "FOMC Member Bowman Speaks",
-   "date": "2026-10-14T05:40:00-04:00",
-   "impact": "Low",
-   "forecast": "",
-   "previous": ""
-  },
-  {
-   "title": "Core CPI m/m",
-   "date": "2026-10-14T08:30:00-04:00",
-   "impact": "High",
-   "forecast": "0.2%",
-   "previous": "0.3%",
-   "actual": "0.3%",
-   "actual_source": "ForexFactory"
-  },
-  {
-   "title": "Core CPI y/y",
-   "date": "2026-10-14T08:30:00-04:00",
-   "impact": "High",
-   "forecast": "2.5%",
-   "previous": "2.4%",
-   "actual": "2.6%",
-   "actual_source": "ForexFactory"
-  },
-  {
-   "title": "CPI m/m",
-   "date": "2026-10-14T08:30:00-04:00",
-   "impact": "High",
-   "forecast": "0.6%",
-   "previous": "0.4%",
-   "actual": "0.6%",
-   "actual_source": "ForexFactory"
-  },
-  {
-   "title": "CPI y/y",
-   "date": "2026-10-14T08:30:00-04:00",
-   "impact": "High",
-   "forecast": "3.6%",
-   "previous": "3.4%",
-   "actual": "3.7%",
-   "actual_source": "ForexFactory"
-  },
-  {
-   "title": "FOMC Member Barkin Speaks",
-   "date": "2026-10-14T13:30:00-04:00",
-   "impact": "Low",
-   "forecast": "",
-   "previous": ""
-  },
-  {
-   "title": "Beige Book",
-   "date": "2026-10-14T14:00:00-04:00",
-   "impact": "Low",
-   "forecast": "",
-   "previous": ""
-  },
-  {
-   "title": "FOMC Member Goolsbee Speaks",
-   "date": "2026-10-14T15:00:00-04:00",
-   "impact": "Low",
-   "forecast": "",
-   "previous": ""
-  },
-  {
-   "title": "API Weekly Statistical Bulletin",
-   "date": "2026-10-14T16:30:00-04:00",
-   "impact": "Low",
-   "forecast": "",
-   "previous": ""
-  },
-  {
-   "title": "FOMC Member Bowman Speaks",
-   "date": "2026-10-14T22:55:00-04:00",
-   "impact": "Low",
-   "forecast": "",
-   "previous": ""
-  },
-  {
-   "title": "Core PPI m/m",
-   "date": "2026-10-15T08:30:00-04:00",
-   "impact": "High",
-   "forecast": "0.3%",
-   "previous": "0.2%",
-   "actual": "0.7%",
-   "actual_source": "ForexFactory"
-  },
-  {
-   "title": "Core Retail Sales m/m",
-   "date": "2026-10-15T08:30:00-04:00",
-   "impact": "High",
-   "forecast": "0.6%",
-   "previous": "1.4%",
-   "actual": "0.9%",
-   "actual_source": "ForexFactory"
-  },
-  {
-   "title": "PPI m/m",
-   "date": "2026-10-15T08:30:00-04:00",
-   "impact": "High",
-   "forecast": "0.6%",
-   "previous": "0.5%",
-   "actual": "1.3%",
-   "actual_source": "ForexFactory"
-  },
-  {
-   "title": "Retail Sales m/m",
-   "date": "2026-10-15T08:30:00-04:00",
-   "impact": "High",
-   "forecast": "0.3%",
-   "previous": "1.3%",
-   "actual": "0.8%",
-   "actual_source": "ForexFactory"
-  },
-  {
-   "title": "Philly Fed Manufacturing Index",
-   "date": "2026-10-15T08:30:00-04:00",
-   "impact": "Medium",
-   "forecast": "28.2",
-   "previous": "37.8",
-   "actual": "20.9",
-   "actual_source": "ForexFactory"
-  },
-  {
-   "title": "Unemployment Claims",
-   "date": "2026-10-15T08:30:00-04:00",
-   "impact": "Medium",
-   "forecast": "199K",
-   "previous": "198K",
-   "actual": "199K",
-   "actual_source": "ForexFactory"
-  },
-  {
-   "title": "Empire State Manufacturing Index",
-   "date": "2026-10-15T08:30:00-04:00",
-   "impact": "Low",
-   "forecast": "12.1",
-   "previous": "7.6",
-   "actual": "25.5",
-   "actual_source": "ForexFactory"
-  },
-  {
-   "title": "Business Inventories m/m",
-   "date": "2026-10-15T10:00:00-04:00",
-   "impact": "Low",
-   "forecast": "0.4%",
-   "previous": "0.9%",
-   "actual": "0.4%",
-   "actual_source": "ForexFactory"
-  },
-  {
-   "title": "Natural Gas Storage",
-   "date": "2026-10-15T10:30:00-04:00",
-   "impact": "Low",
-   "forecast": "76B",
-   "previous": "85B",
-   "actual": "67B",
-   "actual_source": "ForexFactory"
-  },
-  {
-   "title": "Crude Oil Inventories",
-   "date": "2026-10-15T12:00:00-04:00",
-   "impact": "Low",
-   "forecast": "0.2M",
-   "previous": "-3.2M",
-   "actual": "-8.6M",
-   "actual_source": "ForexFactory"
-  },
-  {
-   "title": "FOMC Member Hammack Speaks",
-   "date": "2026-10-15T16:30:00-04:00",
-   "impact": "Low",
-   "forecast": "",
-   "previous": ""
-  },
-  {
-   "title": "Fed Chairman Warsh Speaks",
-   "date": "2026-10-15T23:30:00-04:00",
-   "impact": "High",
-   "forecast": "",
-   "previous": ""
-  },
-  {
-   "title": "Import Prices m/m",
-   "date": "2026-10-16T08:30:00-04:00",
-   "impact": "Low",
-   "forecast": "0.9%",
-   "previous": "0.5%",
-   "actual": "1.1%",
-   "actual_source": "ForexFactory"
-  },
-  {
-   "title": "Capacity Utilization Rate",
-   "date": "2026-10-16T09:15:00-04:00",
-   "impact": "Low",
-   "forecast": "76.5%",
-   "previous": "76.4%",
-   "actual": "76.9%",
-   "actual_source": "ForexFactory"
-  },
-  {
-   "title": "Industrial Production m/m",
-   "date": "2026-10-16T09:15:00-04:00",
-   "impact": "Low",
-   "forecast": "0.4%",
-   "previous": "0.1%",
-   "actual": "0.7%",
-   "actual_source": "ForexFactory"
-  },
-  {
-   "title": "Federal Budget Balance",
-   "date": "2026-10-16T14:05:00-04:00",
-   "impact": "Low",
-   "forecast": "-34.7B",
-   "previous": "-166.8B",
-   "actual": "-26.9B",
-   "actual_source": "ForexFactory"
-  },
-  {
-   "title": "TIC Long-Term Purchases",
-   "date": "2026-10-16T16:00:00-04:00",
-   "impact": "Low",
-   "forecast": "75.2B",
-   "previous": "-27.9B",
-   "actual": "279.2B",
-   "actual_source": "ForexFactory"
-  },
-  {
    "title": "NAHB Housing Market Index",
-   "date": "2026-10-19T09:00:00-04:00",
+   "date": "2026-10-19T10:00:00-04:00",
    "impact": "Low",
    "forecast": "31",
    "previous": "32"
   },
   {
    "title": "ADP Weekly Employment Change",
-   "date": "2026-10-20T07:15:00-04:00",
+   "date": "2026-10-20T08:15:00-04:00",
    "impact": "Low",
    "forecast": "",
    "previous": "24.8K"
   },
   {
    "title": "Building Permits",
-   "date": "2026-10-20T07:30:00-04:00",
+   "date": "2026-10-20T08:30:00-04:00",
    "impact": "Low",
    "forecast": "1.39M",
    "previous": "1.40M"
   },
   {
    "title": "Housing Starts",
-   "date": "2026-10-20T07:30:00-04:00",
+   "date": "2026-10-20T08:30:00-04:00",
    "impact": "Low",
    "forecast": "1.30M",
    "previous": "1.28M"
   },
   {
    "title": "Pending Home Sales m/m",
-   "date": "2026-10-20T09:00:00-04:00",
+   "date": "2026-10-20T10:00:00-04:00",
    "impact": "Low",
    "forecast": "-0.4%",
    "previous": "0.3%"
   },
   {
    "title": "API Weekly Statistical Bulletin",
-   "date": "2026-10-20T15:30:00-04:00",
+   "date": "2026-10-20T16:30:00-04:00",
    "impact": "Low",
    "forecast": "",
    "previous": ""
   },
   {
    "title": "Crude Oil Inventories",
-   "date": "2026-10-21T09:30:00-04:00",
+   "date": "2026-10-21T10:30:00-04:00",
    "impact": "Low",
    "forecast": "",
    "previous": "-8.6M"
   },
   {
    "title": "Unemployment Claims",
-   "date": "2026-10-22T07:30:00-04:00",
+   "date": "2026-10-22T08:30:00-04:00",
    "impact": "Medium",
    "forecast": "200K",
    "previous": "199K"
   },
   {
    "title": "CB Leading Index m/m",
-   "date": "2026-10-22T09:00:00-04:00",
+   "date": "2026-10-22T10:00:00-04:00",
    "impact": "Low",
    "forecast": "-0.2%",
    "previous": "-0.1%"
   },
   {
    "title": "Natural Gas Storage",
-   "date": "2026-10-22T09:30:00-04:00",
+   "date": "2026-10-22T10:30:00-04:00",
    "impact": "Low",
    "forecast": "",
    "previous": "67B"
   },
   {
    "title": "Flash Manufacturing PMI",
-   "date": "2026-10-23T08:45:00-04:00",
+   "date": "2026-10-23T09:45:00-04:00",
    "impact": "Medium",
    "forecast": "55.5",
    "previous": "55.9"
   },
   {
    "title": "Flash Services PMI",
-   "date": "2026-10-23T08:45:00-04:00",
+   "date": "2026-10-23T09:45:00-04:00",
    "impact": "Medium",
    "forecast": "58.0",
    "previous": "58.8"
   },
   {
    "title": "Revised UoM Consumer Sentiment",
-   "date": "2026-10-23T09:00:00-04:00",
+   "date": "2026-10-23T10:00:00-04:00",
    "impact": "Medium",
    "forecast": "46.3",
    "previous": "46.3"
   },
   {
    "title": "Revised UoM Inflation Expectations",
-   "date": "2026-10-23T09:00:00-04:00",
+   "date": "2026-10-23T10:00:00-04:00",
    "impact": "Medium",
    "forecast": "",
    "previous": "4.7%"
+  },
+  {
+   "title": "Fed Monetary Policy Report",
+   "date": "2026-10-25T00:00:00-04:00",
+   "impact": "Low",
+   "forecast": "",
+   "previous": ""
+  },
+  {
+   "title": "ADP Weekly Employment Change",
+   "date": "2026-10-27T08:15:00-04:00",
+   "impact": "Low",
+   "forecast": "",
+   "previous": ""
+  },
+  {
+   "title": "Core Durable Goods Orders m/m",
+   "date": "2026-10-27T08:30:00-04:00",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "0.2%"
+  },
+  {
+   "title": "Durable Goods Orders m/m",
+   "date": "2026-10-27T08:30:00-04:00",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "-0.1%"
+  },
+  {
+   "title": "HPI m/m",
+   "date": "2026-10-27T09:00:00-04:00",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "0.3%"
+  },
+  {
+   "title": "S&P/CS Composite-20 HPI y/y",
+   "date": "2026-10-27T09:00:00-04:00",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "2.5%"
+  },
+  {
+   "title": "CB Consumer Confidence",
+   "date": "2026-10-27T10:00:00-04:00",
+   "impact": "Medium",
+   "forecast": "",
+   "previous": "81.9"
+  },
+  {
+   "title": "New Home Sales",
+   "date": "2026-10-27T10:00:00-04:00",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "684K"
+  },
+  {
+   "title": "Richmond Manufacturing Index",
+   "date": "2026-10-27T10:00:00-04:00",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "-2"
+  },
+  {
+   "title": "API Weekly Statistical Bulletin",
+   "date": "2026-10-27T16:30:00-04:00",
+   "impact": "Low",
+   "forecast": "",
+   "previous": ""
+  },
+  {
+   "title": "Goods Trade Balance",
+   "date": "2026-10-28T08:30:00-04:00",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "-132.6B"
+  },
+  {
+   "title": "Prelim Wholesale Inventories m/m",
+   "date": "2026-10-28T08:30:00-04:00",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "0.5%"
+  },
+  {
+   "title": "Crude Oil Inventories",
+   "date": "2026-10-28T10:30:00-04:00",
+   "impact": "Low",
+   "forecast": "",
+   "previous": ""
+  },
+  {
+   "title": "Federal Funds Rate",
+   "date": "2026-10-28T14:00:00-04:00",
+   "impact": "High",
+   "forecast": "",
+   "previous": "4.00%"
+  },
+  {
+   "title": "FOMC Statement",
+   "date": "2026-10-28T14:00:00-04:00",
+   "impact": "High",
+   "forecast": "",
+   "previous": ""
+  },
+  {
+   "title": "FOMC Press Conference",
+   "date": "2026-10-28T14:30:00-04:00",
+   "impact": "High",
+   "forecast": "",
+   "previous": ""
+  },
+  {
+   "title": "Advance GDP q/q",
+   "date": "2026-10-29T08:30:00-04:00",
+   "impact": "High",
+   "forecast": "",
+   "previous": "2.2%"
+  },
+  {
+   "title": "Core PCE Price Index m/m",
+   "date": "2026-10-29T08:30:00-04:00",
+   "impact": "High",
+   "forecast": "",
+   "previous": "0.2%"
+  },
+  {
+   "title": "Advance GDP Price Index q/q",
+   "date": "2026-10-29T08:30:00-04:00",
+   "impact": "Medium",
+   "forecast": "",
+   "previous": "6.1%"
+  },
+  {
+   "title": "Unemployment Claims",
+   "date": "2026-10-29T08:30:00-04:00",
+   "impact": "Medium",
+   "forecast": "",
+   "previous": ""
+  },
+  {
+   "title": "Personal Income m/m",
+   "date": "2026-10-29T08:30:00-04:00",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "0.2%"
+  },
+  {
+   "title": "Personal Spending m/m",
+   "date": "2026-10-29T08:30:00-04:00",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "0.9%"
+  },
+  {
+   "title": "Natural Gas Storage",
+   "date": "2026-10-29T10:30:00-04:00",
+   "impact": "Low",
+   "forecast": "",
+   "previous": ""
+  },
+  {
+   "title": "Employment Cost Index q/q",
+   "date": "2026-10-30T08:30:00-04:00",
+   "impact": "Medium",
+   "forecast": "",
+   "previous": "0.9%"
+  },
+  {
+   "title": "Chicago PMI",
+   "date": "2026-10-30T09:45:00-04:00",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "58.8"
   }
  ]
 }
