@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-22T16:13:18Z",
- "last_success": "2026-10-22T16:13:18Z",
+ "updated_at": "2026-10-22T18:47:17Z",
+ "last_success": "2026-10-22T18:47:17Z",
  "ok": {
   "feed": true,
   "ff_this": true,
@@ -139,14 +139,14 @@
    "title": "Core Durable Goods Orders m/m",
    "date": "2026-10-27T07:30:00-04:00",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "0.6%",
    "previous": "0.2%"
   },
   {
    "title": "Durable Goods Orders m/m",
    "date": "2026-10-27T07:30:00-04:00",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "1.6%",
    "previous": "-0.1%"
   },
   {
@@ -167,14 +167,14 @@
    "title": "CB Consumer Confidence",
    "date": "2026-10-27T09:00:00-04:00",
    "impact": "Medium",
-   "forecast": "",
+   "forecast": "80.5",
    "previous": "81.9"
   },
   {
    "title": "New Home Sales",
    "date": "2026-10-27T09:00:00-04:00",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "652K",
    "previous": "684K"
   },
   {
@@ -195,7 +195,7 @@
    "title": "Goods Trade Balance",
    "date": "2026-10-28T07:30:00-04:00",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "-125.4B",
    "previous": "-132.6B"
   },
   {
@@ -210,13 +210,13 @@
    "date": "2026-10-28T09:30:00-04:00",
    "impact": "Low",
    "forecast": "",
-   "previous": ""
+   "previous": "-3.1M"
   },
   {
    "title": "Federal Funds Rate",
    "date": "2026-10-28T13:00:00-04:00",
    "impact": "High",
-   "forecast": "",
+   "forecast": "4.00%",
    "previous": "4.00%"
   },
   {
@@ -237,21 +237,21 @@
    "title": "Advance GDP q/q",
    "date": "2026-10-29T07:30:00-04:00",
    "impact": "High",
-   "forecast": "",
+   "forecast": "3.0%",
    "previous": "2.2%"
   },
   {
    "title": "Core PCE Price Index m/m",
    "date": "2026-10-29T07:30:00-04:00",
    "impact": "High",
-   "forecast": "",
+   "forecast": "0.3%",
    "previous": "0.2%"
   },
   {
    "title": "Advance GDP Price Index q/q",
    "date": "2026-10-29T07:30:00-04:00",
    "impact": "Medium",
-   "forecast": "",
+   "forecast": "3.5%",
    "previous": "6.1%"
   },
   {
@@ -259,20 +259,20 @@
    "date": "2026-10-29T07:30:00-04:00",
    "impact": "Medium",
    "forecast": "",
-   "previous": ""
+   "previous": "194K"
   },
   {
    "title": "Personal Income m/m",
    "date": "2026-10-29T07:30:00-04:00",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "0.3%",
    "previous": "0.2%"
   },
   {
    "title": "Personal Spending m/m",
    "date": "2026-10-29T07:30:00-04:00",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "0.5%",
    "previous": "0.9%"
   },
   {
@@ -280,13 +280,13 @@
    "date": "2026-10-29T09:30:00-04:00",
    "impact": "Low",
    "forecast": "",
-   "previous": ""
+   "previous": "77B"
   },
   {
    "title": "Employment Cost Index q/q",
    "date": "2026-10-30T07:30:00-04:00",
    "impact": "Medium",
-   "forecast": "",
+   "forecast": "0.8%",
    "previous": "0.9%"
   },
   {
