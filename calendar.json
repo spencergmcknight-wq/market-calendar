@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-26T06:54:47Z",
- "last_success": "2026-10-26T06:54:47Z",
+ "updated_at": "2026-10-26T09:52:17Z",
+ "last_success": "2026-10-26T09:52:17Z",
  "ok": {
   "feed": true,
   "ff_this": true,
@@ -209,13 +209,6 @@
    "previous": ""
   },
   {
-   "title": "Omdia Total Vehicle Sales",
-   "date": "2026-11-02T00:00:00-05:00",
-   "impact": "Low",
-   "forecast": "",
-   "previous": ""
-  },
-  {
    "title": "Loan Officer Survey",
    "date": "2026-11-02T00:00:00-05:00",
    "impact": "Low",
@@ -227,35 +220,42 @@
    "date": "2026-11-02T08:45:00-05:00",
    "impact": "Low",
    "forecast": "",
-   "previous": ""
+   "previous": "56.0"
   },
   {
    "title": "ISM Manufacturing PMI",
    "date": "2026-11-02T09:00:00-05:00",
    "impact": "Medium",
    "forecast": "",
-   "previous": ""
+   "previous": "54.5"
   },
   {
    "title": "Construction Spending m/m",
    "date": "2026-11-02T09:00:00-05:00",
    "impact": "Low",
    "forecast": "",
-   "previous": ""
+   "previous": "0.9%"
   },
   {
    "title": "ISM Manufacturing Prices",
    "date": "2026-11-02T09:00:00-05:00",
    "impact": "Low",
    "forecast": "",
-   "previous": ""
+   "previous": "77.9"
   },
   {
    "title": "RCM/TIPP Economic Optimism",
    "date": "2026-11-03T00:00:00-05:00",
    "impact": "Low",
    "forecast": "",
-   "previous": ""
+   "previous": "46.8"
+  },
+  {
+   "title": "Omdia Total Vehicle Sales",
+   "date": "2026-11-03T00:00:00-05:00",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "16.0M"
   },
   {
    "title": "Congressional Elections",
@@ -269,14 +269,14 @@
    "date": "2026-11-03T09:00:00-05:00",
    "impact": "Medium",
    "forecast": "",
-   "previous": ""
+   "previous": "7.08M"
   },
   {
    "title": "Factory Orders m/m",
    "date": "2026-11-03T09:00:00-05:00",
    "impact": "Low",
    "forecast": "",
-   "previous": ""
+   "previous": "0.1%"
   },
   {
    "title": "API Weekly Statistical Bulletin",
@@ -290,28 +290,28 @@
    "date": "2026-11-04T07:15:00-05:00",
    "impact": "Low",
    "forecast": "",
-   "previous": ""
+   "previous": "90K"
   },
   {
    "title": "Trade Balance",
    "date": "2026-11-04T07:30:00-05:00",
    "impact": "Low",
    "forecast": "",
-   "previous": ""
+   "previous": "-105.6B"
   },
   {
    "title": "Final Services PMI",
    "date": "2026-11-04T08:45:00-05:00",
    "impact": "Low",
    "forecast": "",
-   "previous": ""
+   "previous": "57.9"
   },
   {
    "title": "ISM Services PMI",
    "date": "2026-11-04T09:00:00-05:00",
    "impact": "Medium",
    "forecast": "",
-   "previous": ""
+   "previous": "54.9"
   },
   {
    "title": "Crude Oil Inventories",
@@ -325,7 +325,7 @@
    "date": "2026-11-05T04:30:00-05:00",
    "impact": "Low",
    "forecast": "",
-   "previous": ""
+   "previous": "-19.9%"
   },
   {
    "title": "Unemployment Claims",
@@ -339,14 +339,14 @@
    "date": "2026-11-05T07:30:00-05:00",
    "impact": "Low",
    "forecast": "",
-   "previous": ""
+   "previous": "1.4%"
   },
   {
    "title": "Prelim Unit Labor Costs q/q",
    "date": "2026-11-05T07:30:00-05:00",
    "impact": "Low",
    "forecast": "",
-   "previous": ""
+   "previous": "1.2%"
   },
   {
    "title": "Natural Gas Storage",
@@ -374,42 +374,42 @@
    "date": "2026-11-06T07:30:00-05:00",
    "impact": "High",
    "forecast": "",
-   "previous": ""
+   "previous": "0.1%"
   },
   {
    "title": "Non-Farm Employment Change",
    "date": "2026-11-06T07:30:00-05:00",
    "impact": "High",
    "forecast": "",
-   "previous": ""
+   "previous": "29K"
   },
   {
    "title": "Unemployment Rate",
    "date": "2026-11-06T07:30:00-05:00",
    "impact": "High",
    "forecast": "",
-   "previous": ""
+   "previous": "4.2%"
   },
   {
    "title": "Prelim UoM Consumer Sentiment",
    "date": "2026-11-06T09:00:00-05:00",
    "impact": "Medium",
    "forecast": "",
-   "previous": ""
+   "previous": "48.0"
   },
   {
    "title": "Prelim UoM Inflation Expectations",
    "date": "2026-11-06T09:00:00-05:00",
    "impact": "Medium",
    "forecast": "",
-   "previous": ""
+   "previous": "4.7%"
   },
   {
    "title": "Consumer Credit m/m",
    "date": "2026-11-06T14:00:00-05:00",
    "impact": "Low",
    "forecast": "",
-   "previous": ""
+   "previous": "8.3B"
   }
  ]
 }
