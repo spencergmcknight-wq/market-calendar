@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-27T12:52:42Z",
- "last_success": "2026-10-27T12:52:42Z",
+ "updated_at": "2026-10-27T13:19:27Z",
+ "last_success": "2026-10-27T13:19:27Z",
  "ok": {
   "feed": true,
   "ff_this": true,
@@ -9,7 +9,7 @@
  "errors": {},
  "count": 57,
  "fed_speeches": 2,
- "actuals": 3,
+ "actuals": 5,
  "next_week_added": 31,
  "events": [
   {
@@ -44,14 +44,18 @@
    "date": "2026-10-27T09:00:00-04:00",
    "impact": "Low",
    "forecast": "0.2%",
-   "previous": "0.3%"
+   "previous": "0.2%",
+   "actual": "0.3%",
+   "actual_source": "ForexFactory"
   },
   {
    "title": "S&P/CS Composite-20 HPI y/y",
    "date": "2026-10-27T09:00:00-04:00",
    "impact": "Low",
    "forecast": "2.6%",
-   "previous": "2.5%"
+   "previous": "2.5%",
+   "actual": "2.7%",
+   "actual_source": "ForexFactory"
   },
   {
    "title": "CB Consumer Confidence",
