@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-27T21:42:54Z",
- "last_success": "2026-10-27T21:42:54Z",
+ "updated_at": "2026-10-28T01:05:10Z",
+ "last_success": "2026-10-28T01:05:10Z",
  "ok": {
   "feed": true,
   "ff_this": true,
@@ -211,16 +211,16 @@
    "previous": ""
   },
   {
-   "title": "FOMC Financial Stability Report",
+   "title": "Daylight Saving Time Shift",
    "date": "2026-11-01T00:00:00-04:00",
-   "impact": "Low",
+   "impact": "Holiday",
    "forecast": "",
    "previous": ""
   },
   {
-   "title": "Daylight Saving Time Shift",
-   "date": "2026-11-01T01:00:00-04:00",
-   "impact": "Holiday",
+   "title": "FOMC Financial Stability Report",
+   "date": "2026-11-01T00:00:00-04:00",
+   "impact": "Low",
    "forecast": "",
    "previous": ""
   },
@@ -233,28 +233,28 @@
   },
   {
    "title": "Final Manufacturing PMI",
-   "date": "2026-11-02T08:45:00-05:00",
+   "date": "2026-11-02T06:45:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": "56.0"
   },
   {
    "title": "ISM Manufacturing PMI",
-   "date": "2026-11-02T09:00:00-05:00",
+   "date": "2026-11-02T07:00:00-05:00",
    "impact": "Medium",
    "forecast": "",
    "previous": "54.5"
   },
   {
    "title": "Construction Spending m/m",
-   "date": "2026-11-02T09:00:00-05:00",
+   "date": "2026-11-02T07:00:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": "0.9%"
   },
   {
    "title": "ISM Manufacturing Prices",
-   "date": "2026-11-02T09:00:00-05:00",
+   "date": "2026-11-02T07:00:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": "77.9"
@@ -282,91 +282,91 @@
   },
   {
    "title": "JOLTS Job Openings",
-   "date": "2026-11-03T09:00:00-05:00",
+   "date": "2026-11-03T07:00:00-05:00",
    "impact": "Medium",
    "forecast": "",
    "previous": "7.08M"
   },
   {
    "title": "Factory Orders m/m",
-   "date": "2026-11-03T09:00:00-05:00",
+   "date": "2026-11-03T07:00:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": "0.1%"
   },
   {
    "title": "API Weekly Statistical Bulletin",
-   "date": "2026-11-03T15:30:00-05:00",
+   "date": "2026-11-03T13:30:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": ""
   },
   {
    "title": "ADP Non-Farm Employment Change",
-   "date": "2026-11-04T07:15:00-05:00",
+   "date": "2026-11-04T05:15:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": "90K"
   },
   {
    "title": "Trade Balance",
-   "date": "2026-11-04T07:30:00-05:00",
+   "date": "2026-11-04T05:30:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": "-105.6B"
   },
   {
    "title": "Final Services PMI",
-   "date": "2026-11-04T08:45:00-05:00",
+   "date": "2026-11-04T06:45:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": "57.9"
   },
   {
    "title": "ISM Services PMI",
-   "date": "2026-11-04T09:00:00-05:00",
+   "date": "2026-11-04T07:00:00-05:00",
    "impact": "Medium",
    "forecast": "",
    "previous": "54.9"
   },
   {
    "title": "Crude Oil Inventories",
-   "date": "2026-11-04T09:30:00-05:00",
+   "date": "2026-11-04T07:30:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": ""
   },
   {
    "title": "Challenger Job Cuts y/y",
-   "date": "2026-11-05T04:30:00-05:00",
+   "date": "2026-11-05T02:30:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": "-19.9%"
   },
   {
    "title": "Unemployment Claims",
-   "date": "2026-11-05T07:30:00-05:00",
+   "date": "2026-11-05T05:30:00-05:00",
    "impact": "Medium",
    "forecast": "",
    "previous": ""
   },
   {
    "title": "Prelim Nonfarm Productivity q/q",
-   "date": "2026-11-05T07:30:00-05:00",
+   "date": "2026-11-05T05:30:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": "1.4%"
   },
   {
    "title": "Prelim Unit Labor Costs q/q",
-   "date": "2026-11-05T07:30:00-05:00",
+   "date": "2026-11-05T05:30:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": "1.2%"
   },
   {
    "title": "Natural Gas Storage",
-   "date": "2026-11-05T09:30:00-05:00",
+   "date": "2026-11-05T07:30:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": ""
@@ -387,42 +387,42 @@
   },
   {
    "title": "Average Hourly Earnings m/m",
-   "date": "2026-11-06T07:30:00-05:00",
+   "date": "2026-11-06T05:30:00-05:00",
    "impact": "High",
    "forecast": "",
    "previous": "0.1%"
   },
   {
    "title": "Non-Farm Employment Change",
-   "date": "2026-11-06T07:30:00-05:00",
+   "date": "2026-11-06T05:30:00-05:00",
    "impact": "High",
    "forecast": "",
    "previous": "29K"
   },
   {
    "title": "Unemployment Rate",
-   "date": "2026-11-06T07:30:00-05:00",
+   "date": "2026-11-06T05:30:00-05:00",
    "impact": "High",
    "forecast": "",
    "previous": "4.2%"
   },
   {
    "title": "Prelim UoM Consumer Sentiment",
-   "date": "2026-11-06T09:00:00-05:00",
+   "date": "2026-11-06T07:00:00-05:00",
    "impact": "Medium",
    "forecast": "",
    "previous": "48.0"
   },
   {
    "title": "Prelim UoM Inflation Expectations",
-   "date": "2026-11-06T09:00:00-05:00",
+   "date": "2026-11-06T07:00:00-05:00",
    "impact": "Medium",
    "forecast": "",
    "previous": "4.7%"
   },
   {
    "title": "Consumer Credit m/m",
-   "date": "2026-11-06T14:00:00-05:00",
+   "date": "2026-11-06T12:00:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": "8.3B"
