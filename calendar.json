@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-01T13:19:34Z",
- "last_success": "2026-11-01T13:19:34Z",
+ "updated_at": "2026-11-01T19:38:18Z",
+ "last_success": "2026-11-01T19:38:18Z",
  "ok": {
   "feed": true,
   "ff_this": true,
@@ -245,63 +245,63 @@
   },
   {
    "title": "Final Wholesale Inventories m/m",
-   "date": "2026-11-09T08:00:00-05:00",
+   "date": "2026-11-09T10:00:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": ""
   },
   {
    "title": "NFIB Small Business Index",
-   "date": "2026-11-10T04:00:00-05:00",
+   "date": "2026-11-10T06:00:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": ""
   },
   {
    "title": "ADP Weekly Employment Change",
-   "date": "2026-11-10T06:15:00-05:00",
+   "date": "2026-11-10T08:15:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": ""
   },
   {
    "title": "Core CPI m/m",
-   "date": "2026-11-10T06:30:00-05:00",
+   "date": "2026-11-10T08:30:00-05:00",
    "impact": "High",
    "forecast": "",
    "previous": ""
   },
   {
    "title": "Core CPI y/y",
-   "date": "2026-11-10T06:30:00-05:00",
+   "date": "2026-11-10T08:30:00-05:00",
    "impact": "High",
    "forecast": "",
    "previous": ""
   },
   {
    "title": "CPI m/m",
-   "date": "2026-11-10T06:30:00-05:00",
+   "date": "2026-11-10T08:30:00-05:00",
    "impact": "High",
    "forecast": "",
    "previous": ""
   },
   {
    "title": "CPI y/y",
-   "date": "2026-11-10T06:30:00-05:00",
+   "date": "2026-11-10T08:30:00-05:00",
    "impact": "High",
    "forecast": "",
    "previous": ""
   },
   {
    "title": "10-y Bond Auction",
-   "date": "2026-11-10T11:01:00-05:00",
+   "date": "2026-11-10T13:01:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": ""
   },
   {
    "title": "API Weekly Statistical Bulletin",
-   "date": "2026-11-10T14:30:00-05:00",
+   "date": "2026-11-10T16:30:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": ""
@@ -322,35 +322,35 @@
   },
   {
    "title": "Unemployment Claims",
-   "date": "2026-11-12T06:30:00-05:00",
+   "date": "2026-11-12T08:30:00-05:00",
    "impact": "Medium",
    "forecast": "",
    "previous": ""
   },
   {
    "title": "Existing Home Sales",
-   "date": "2026-11-12T08:00:00-05:00",
-   "impact": "Low",
-   "forecast": "",
-   "previous": ""
-  },
-  {
-   "title": "Crude Oil Inventories",
    "date": "2026-11-12T10:00:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": ""
   },
   {
+   "title": "Crude Oil Inventories",
+   "date": "2026-11-12T12:00:00-05:00",
+   "impact": "Low",
+   "forecast": "",
+   "previous": ""
+  },
+  {
    "title": "30-y Bond Auction",
-   "date": "2026-11-12T11:01:00-05:00",
+   "date": "2026-11-12T13:01:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": ""
   },
   {
    "title": "Federal Budget Balance",
-   "date": "2026-11-12T12:00:00-05:00",
+   "date": "2026-11-12T14:00:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": ""
@@ -364,21 +364,21 @@
   },
   {
    "title": "Core PPI m/m",
-   "date": "2026-11-13T06:30:00-05:00",
+   "date": "2026-11-13T08:30:00-05:00",
    "impact": "High",
    "forecast": "",
    "previous": ""
   },
   {
    "title": "PPI m/m",
-   "date": "2026-11-13T06:30:00-05:00",
+   "date": "2026-11-13T08:30:00-05:00",
    "impact": "High",
    "forecast": "",
    "previous": ""
   },
   {
    "title": "Natural Gas Storage",
-   "date": "2026-11-13T08:30:00-05:00",
+   "date": "2026-11-13T10:30:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": ""
