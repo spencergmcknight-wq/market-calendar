@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-09T19:47:00Z",
- "last_success": "2026-11-09T19:47:00Z",
+ "updated_at": "2026-11-09T21:48:06Z",
+ "last_success": "2026-11-09T21:48:06Z",
  "ok": {
   "feed": true,
   "ff_this": true,
@@ -53,7 +53,7 @@
    "title": "NFIB Small Business Index",
    "date": "2026-11-10T06:00:00-05:00",
    "impact": "Low",
-   "forecast": "97.7",
+   "forecast": "98.0",
    "previous": "97.9"
   },
   {
@@ -149,7 +149,7 @@
   },
   {
    "title": "FOMC Member Hammack Speaks",
-   "date": "2026-11-12T09:00:00-05:00",
+   "date": "2026-11-12T08:30:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": ""
@@ -177,7 +177,7 @@
   },
   {
    "title": "FOMC Member Goolsbee Speaks",
-   "date": "2026-11-12T11:30:00-05:00",
+   "date": "2026-11-12T11:15:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": ""
