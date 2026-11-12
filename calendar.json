@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-12T19:22:38Z",
- "last_success": "2026-11-12T19:22:38Z",
+ "updated_at": "2026-11-12T23:37:06Z",
+ "last_success": "2026-11-12T23:37:06Z",
  "ok": {
   "feed": true,
   "ff_this": true,
@@ -8,7 +8,7 @@
  },
  "errors": {},
  "count": 74,
- "fed_speeches": 31,
+ "fed_speeches": 33,
  "actuals": 12,
  "next_week_added": 36,
  "events": [
@@ -268,6 +268,13 @@
    "previous": ""
   },
   {
+   "title": "Mortgage Delinquencies",
+   "date": "2026-11-13T10:15:00-05:00",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "4.37%"
+  },
+  {
    "title": "Natural Gas Storage",
    "date": "2026-11-13T10:30:00-05:00",
    "impact": "Low",
@@ -289,13 +296,6 @@
    "previous": ""
   },
   {
-   "title": "Mortgage Delinquencies",
-   "date": "2026-11-13T12:59:00-05:00",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "4.37%"
-  },
-  {
    "title": "FOMC Member Jefferson Speaks",
    "date": "2026-11-13T19:00:00-05:00",
    "impact": "Low",
@@ -311,245 +311,245 @@
   },
   {
    "title": "Empire State Manufacturing Index",
-   "date": "2026-11-16T06:30:00-05:00",
+   "date": "2026-11-16T05:30:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": "25.5"
   },
   {
    "title": "FOMC Member Williams Speaks",
-   "date": "2026-11-16T07:05:00-05:00",
+   "date": "2026-11-16T06:05:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": ""
   },
   {
    "title": "Fed Chairman Warsh Speaks",
-   "date": "2026-11-16T10:00:00-05:00",
+   "date": "2026-11-16T09:00:00-05:00",
    "impact": "High",
    "forecast": "",
    "previous": ""
   },
   {
    "title": "FOMC Member Musalem Speaks",
-   "date": "2026-11-17T05:30:00-05:00",
+   "date": "2026-11-17T04:30:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": ""
   },
   {
    "title": "ADP Weekly Employment Change",
-   "date": "2026-11-17T06:15:00-05:00",
+   "date": "2026-11-17T05:15:00-05:00",
    "impact": "Low",
    "forecast": "",
-   "previous": ""
+   "previous": "19.8K"
   },
   {
    "title": "Core Retail Sales m/m",
-   "date": "2026-11-17T06:30:00-05:00",
+   "date": "2026-11-17T05:30:00-05:00",
    "impact": "High",
    "forecast": "",
    "previous": "0.9%"
   },
   {
    "title": "Retail Sales m/m",
-   "date": "2026-11-17T06:30:00-05:00",
+   "date": "2026-11-17T05:30:00-05:00",
    "impact": "High",
    "forecast": "",
    "previous": "0.8%"
   },
   {
    "title": "Import Prices m/m",
-   "date": "2026-11-17T06:30:00-05:00",
+   "date": "2026-11-17T05:30:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": "1.1%"
   },
   {
    "title": "Capacity Utilization Rate",
-   "date": "2026-11-17T07:15:00-05:00",
+   "date": "2026-11-17T06:15:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": "76.9%"
   },
   {
    "title": "Industrial Production m/m",
-   "date": "2026-11-17T07:15:00-05:00",
+   "date": "2026-11-17T06:15:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": "0.7%"
   },
   {
    "title": "FOMC Member Hammack Speaks",
-   "date": "2026-11-17T07:30:00-05:00",
+   "date": "2026-11-17T06:30:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": ""
   },
   {
    "title": "Business Inventories m/m",
-   "date": "2026-11-17T08:00:00-05:00",
+   "date": "2026-11-17T07:00:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": "0.4%"
   },
   {
    "title": "NAHB Housing Market Index",
-   "date": "2026-11-17T08:00:00-05:00",
+   "date": "2026-11-17T07:00:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": "29"
   },
   {
    "title": "FOMC Member Williams Speaks",
-   "date": "2026-11-17T12:25:00-05:00",
+   "date": "2026-11-17T11:25:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": ""
   },
   {
    "title": "API Weekly Statistical Bulletin",
-   "date": "2026-11-17T14:30:00-05:00",
+   "date": "2026-11-17T13:30:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": ""
   },
   {
    "title": "Building Permits",
-   "date": "2026-11-18T06:30:00-05:00",
+   "date": "2026-11-18T05:30:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": "1.40M"
   },
   {
    "title": "Housing Starts",
-   "date": "2026-11-18T06:30:00-05:00",
+   "date": "2026-11-18T05:30:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": "1.22M"
   },
   {
    "title": "Pending Home Sales m/m",
-   "date": "2026-11-18T08:00:00-05:00",
+   "date": "2026-11-18T07:00:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": "-7.3%"
   },
   {
    "title": "Crude Oil Inventories",
-   "date": "2026-11-18T08:30:00-05:00",
+   "date": "2026-11-18T07:30:00-05:00",
    "impact": "Low",
    "forecast": "",
-   "previous": ""
+   "previous": "4.7M"
   },
   {
    "title": "FOMC Member Barr Speaks",
-   "date": "2026-11-18T11:35:00-05:00",
+   "date": "2026-11-18T10:35:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": ""
   },
   {
    "title": "FOMC Meeting Minutes",
-   "date": "2026-11-18T12:00:00-05:00",
+   "date": "2026-11-18T11:00:00-05:00",
    "impact": "High",
    "forecast": "",
    "previous": ""
   },
   {
    "title": "FOMC Member Williams Speaks",
-   "date": "2026-11-18T12:30:00-05:00",
+   "date": "2026-11-18T11:30:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": ""
   },
   {
    "title": "TIC Long-Term Purchases",
-   "date": "2026-11-18T14:00:00-05:00",
+   "date": "2026-11-18T13:00:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": "279.2B"
   },
   {
    "title": "FOMC Member Kashkari Speaks",
-   "date": "2026-11-18T14:15:00-05:00",
+   "date": "2026-11-18T13:15:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": ""
   },
   {
    "title": "Philly Fed Manufacturing Index",
-   "date": "2026-11-19T06:30:00-05:00",
+   "date": "2026-11-19T05:30:00-05:00",
    "impact": "Medium",
    "forecast": "",
    "previous": "20.9"
   },
   {
    "title": "Unemployment Claims",
-   "date": "2026-11-19T06:30:00-05:00",
+   "date": "2026-11-19T05:30:00-05:00",
    "impact": "Medium",
    "forecast": "",
-   "previous": ""
+   "previous": "200K"
   },
   {
    "title": "FOMC Member Hammack Speaks",
-   "date": "2026-11-19T06:50:00-05:00",
+   "date": "2026-11-19T05:50:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": ""
   },
   {
    "title": "CB Leading Index m/m",
-   "date": "2026-11-19T08:00:00-05:00",
+   "date": "2026-11-19T07:00:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": "0.0%"
   },
   {
    "title": "Natural Gas Storage",
-   "date": "2026-11-19T08:30:00-05:00",
+   "date": "2026-11-19T07:30:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": ""
   },
   {
    "title": "FOMC Member Goolsbee Speaks",
-   "date": "2026-11-19T10:30:00-05:00",
+   "date": "2026-11-19T09:30:00-05:00",
+   "impact": "Low",
+   "forecast": "",
+   "previous": ""
+  },
+  {
+   "title": "FOMC Member Barkin Speaks",
+   "date": "2026-11-19T11:00:00-05:00",
+   "impact": "Low",
+   "forecast": "",
+   "previous": ""
+  },
+  {
+   "title": "FOMC Member Barr Speaks",
+   "date": "2026-11-19T11:15:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": ""
   },
   {
    "title": "FOMC Member Paulson Speaks",
-   "date": "2026-11-19T16:30:00-05:00",
+   "date": "2026-11-19T15:30:00-05:00",
    "impact": "Low",
-   "forecast": "",
-   "previous": ""
-  },
-  {
-   "title": "Fed Monetary Policy Report",
-   "date": "2026-11-20T00:00:00-05:00",
-   "impact": "Low",
-   "forecast": "",
-   "previous": ""
-  },
-  {
-   "title": "Treasury Currency Report",
-   "date": "2026-11-20T00:00:00-05:00",
-   "impact": "Medium",
    "forecast": "",
    "previous": ""
   },
   {
    "title": "Revised UoM Consumer Sentiment",
-   "date": "2026-11-20T08:00:00-05:00",
+   "date": "2026-11-20T07:00:00-05:00",
    "impact": "Medium",
    "forecast": "",
    "previous": "51.0"
   },
   {
    "title": "Revised UoM Inflation Expectations",
-   "date": "2026-11-20T08:00:00-05:00",
+   "date": "2026-11-20T07:00:00-05:00",
    "impact": "Medium",
    "forecast": "",
    "previous": "4.3%"
