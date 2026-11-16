@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-11-16T19:34:20Z",
- "last_success": "2026-11-16T19:34:20Z",
+ "updated_at": "2026-11-16T21:28:20Z",
+ "last_success": "2026-11-16T21:28:20Z",
  "ok": {
   "feed": true,
   "ff_this": true,
   "ff_next": true
  },
  "errors": {},
- "count": 65,
- "fed_speeches": 18,
+ "count": 68,
+ "fed_speeches": 21,
  "actuals": 2,
  "next_week_added": 23,
  "events": [
@@ -54,6 +54,20 @@
   {
    "title": "FOMC Member Hammack Speaks",
    "date": "2026-11-16T14:15:00-05:00",
+   "impact": "Low",
+   "forecast": "",
+   "previous": ""
+  },
+  {
+   "title": "FOMC Member Barkin Speaks",
+   "date": "2026-11-16T18:10:00-05:00",
+   "impact": "Low",
+   "forecast": "",
+   "previous": ""
+  },
+  {
+   "title": "FOMC Member Goolsbee Speaks",
+   "date": "2026-11-16T18:30:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": ""
@@ -229,6 +243,13 @@
   {
    "title": "FOMC Member Hammack Speaks",
    "date": "2026-11-19T08:50:00-05:00",
+   "impact": "Low",
+   "forecast": "",
+   "previous": ""
+  },
+  {
+   "title": "FOMC Member Jefferson Speaks",
+   "date": "2026-11-19T09:25:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": ""
