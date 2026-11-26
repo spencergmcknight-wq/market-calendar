@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-26T03:32:24Z",
- "last_success": "2026-11-26T03:32:24Z",
+ "updated_at": "2026-11-26T16:51:18Z",
+ "last_success": "2026-11-26T16:51:18Z",
  "ok": {
   "feed": true,
   "ff_this": true,
@@ -225,7 +225,7 @@
   },
   {
    "title": "Chicago PMI",
-   "date": "2026-11-30T09:45:00-05:00",
+   "date": "2026-11-30T08:45:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": "55.3"
@@ -246,140 +246,140 @@
   },
   {
    "title": "Final Manufacturing PMI",
-   "date": "2026-12-01T09:45:00-05:00",
+   "date": "2026-12-01T08:45:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": "54.5"
   },
   {
    "title": "ISM Manufacturing PMI",
-   "date": "2026-12-01T10:00:00-05:00",
+   "date": "2026-12-01T09:00:00-05:00",
    "impact": "Medium",
    "forecast": "",
    "previous": "55.5"
   },
   {
    "title": "JOLTS Job Openings",
-   "date": "2026-12-01T10:00:00-05:00",
+   "date": "2026-12-01T09:00:00-05:00",
    "impact": "Medium",
    "forecast": "",
    "previous": "7.52M"
   },
   {
    "title": "Construction Spending m/m",
-   "date": "2026-12-01T10:00:00-05:00",
+   "date": "2026-12-01T09:00:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": "-1.9%"
   },
   {
    "title": "FOMC Member Bowman Speaks",
-   "date": "2026-12-01T10:00:00-05:00",
+   "date": "2026-12-01T09:00:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": ""
   },
   {
    "title": "ISM Manufacturing Prices",
-   "date": "2026-12-01T10:00:00-05:00",
+   "date": "2026-12-01T09:00:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": "75.2"
   },
   {
    "title": "API Weekly Statistical Bulletin",
-   "date": "2026-12-01T16:30:00-05:00",
+   "date": "2026-12-01T15:30:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": ""
   },
   {
    "title": "ADP Non-Farm Employment Change",
-   "date": "2026-12-02T08:15:00-05:00",
+   "date": "2026-12-02T07:15:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": "86K"
   },
   {
    "title": "Crude Oil Inventories",
-   "date": "2026-12-02T10:30:00-05:00",
+   "date": "2026-12-02T09:30:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": "1.1M"
   },
   {
    "title": "Challenger Job Cuts y/y",
-   "date": "2026-12-03T05:30:00-05:00",
+   "date": "2026-12-03T04:30:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": "-71.3%"
   },
   {
    "title": "Unemployment Claims",
-   "date": "2026-12-03T08:30:00-05:00",
+   "date": "2026-12-03T07:30:00-05:00",
    "impact": "Medium",
    "forecast": "",
    "previous": "189K"
   },
   {
    "title": "Final Services PMI",
-   "date": "2026-12-03T09:45:00-05:00",
+   "date": "2026-12-03T08:45:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": "54.7"
   },
   {
    "title": "ISM Services PMI",
-   "date": "2026-12-03T10:00:00-05:00",
+   "date": "2026-12-03T09:00:00-05:00",
    "impact": "Medium",
    "forecast": "",
    "previous": "54.5"
   },
   {
    "title": "Factory Orders m/m",
-   "date": "2026-12-03T10:00:00-05:00",
+   "date": "2026-12-03T09:00:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": "1.8%"
   },
   {
    "title": "Natural Gas Storage",
-   "date": "2026-12-03T10:30:00-05:00",
+   "date": "2026-12-03T09:30:00-05:00",
    "impact": "Low",
    "forecast": "",
    "previous": "-24B"
   },
   {
    "title": "Average Hourly Earnings m/m",
-   "date": "2026-12-04T08:30:00-05:00",
+   "date": "2026-12-04T07:30:00-05:00",
    "impact": "High",
    "forecast": "",
    "previous": "0.4%"
   },
   {
    "title": "Non-Farm Employment Change",
-   "date": "2026-12-04T08:30:00-05:00",
+   "date": "2026-12-04T07:30:00-05:00",
    "impact": "High",
    "forecast": "",
    "previous": "165K"
   },
   {
    "title": "Unemployment Rate",
-   "date": "2026-12-04T08:30:00-05:00",
+   "date": "2026-12-04T07:30:00-05:00",
    "impact": "High",
    "forecast": "",
    "previous": "4.1%"
   },
   {
    "title": "Prelim UoM Consumer Sentiment",
-   "date": "2026-12-04T10:00:00-05:00",
+   "date": "2026-12-04T09:00:00-05:00",
    "impact": "Medium",
    "forecast": "",
    "previous": "51.5"
   },
   {
    "title": "Prelim UoM Inflation Expectations",
-   "date": "2026-12-04T10:00:00-05:00",
+   "date": "2026-12-04T09:00:00-05:00",
    "impact": "Medium",
    "forecast": "",
    "previous": "3.7%"
