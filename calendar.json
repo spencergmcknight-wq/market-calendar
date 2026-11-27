@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-27T12:12:57Z",
- "last_success": "2026-11-27T12:12:57Z",
+ "updated_at": "2026-11-27T20:30:45Z",
+ "last_success": "2026-11-27T20:30:45Z",
  "ok": {
   "feed": true,
   "ff_this": true,
@@ -9,7 +9,7 @@
  "errors": {},
  "count": 48,
  "fed_speeches": 3,
- "actuals": 18,
+ "actuals": 20,
  "next_week_added": 23,
  "events": [
   {
@@ -214,20 +214,24 @@
    "date": "2026-11-27T08:30:00-05:00",
    "impact": "Low",
    "forecast": "-135.9B",
-   "previous": "-135.1B"
+   "previous": "-135.1B",
+   "actual": "-149.5B",
+   "actual_source": "ForexFactory"
   },
   {
    "title": "Prelim Wholesale Inventories m/m",
    "date": "2026-11-27T08:30:00-05:00",
    "impact": "Low",
    "forecast": "0.5%",
-   "previous": "0.7%"
+   "previous": "0.7%",
+   "actual": "0.9%",
+   "actual_source": "ForexFactory"
   },
   {
    "title": "Chicago PMI",
    "date": "2026-11-30T08:45:00-05:00",
    "impact": "Low",
-   "forecast": "54.6",
+   "forecast": "54.2",
    "previous": "55.3"
   },
   {
@@ -255,14 +259,14 @@
    "title": "ISM Manufacturing PMI",
    "date": "2026-12-01T09:00:00-05:00",
    "impact": "Medium",
-   "forecast": "55.0",
+   "forecast": "55.2",
    "previous": "55.5"
   },
   {
    "title": "JOLTS Job Openings",
    "date": "2026-12-01T09:00:00-05:00",
    "impact": "Medium",
-   "forecast": "7.46M",
+   "forecast": "7.49M",
    "previous": "7.52M"
   },
   {
@@ -283,7 +287,7 @@
    "title": "ISM Manufacturing Prices",
    "date": "2026-12-01T09:00:00-05:00",
    "impact": "Low",
-   "forecast": "71.0",
+   "forecast": "71.1",
    "previous": "75.2"
   },
   {
@@ -317,8 +321,8 @@
   {
    "title": "Unemployment Claims",
    "date": "2026-12-03T07:30:00-05:00",
-   "impact": "Medium",
-   "forecast": "195K",
+   "impact": "Low",
+   "forecast": "188K",
    "previous": "189K"
   },
   {
@@ -332,14 +336,14 @@
    "title": "ISM Services PMI",
    "date": "2026-12-03T09:00:00-05:00",
    "impact": "Medium",
-   "forecast": "54.5",
+   "forecast": "54.6",
    "previous": "54.5"
   },
   {
    "title": "Factory Orders m/m",
    "date": "2026-12-03T09:00:00-05:00",
    "impact": "Low",
-   "forecast": "0.5%",
+   "forecast": "0.4%",
    "previous": "1.8%"
   },
   {
@@ -360,7 +364,7 @@
    "title": "Non-Farm Employment Change",
    "date": "2026-12-04T07:30:00-05:00",
    "impact": "High",
-   "forecast": "90K",
+   "forecast": "92K",
    "previous": "165K"
   },
   {
@@ -374,7 +378,7 @@
    "title": "Prelim UoM Consumer Sentiment",
    "date": "2026-12-04T09:00:00-05:00",
    "impact": "Medium",
-   "forecast": "52.6",
+   "forecast": "53.1",
    "previous": "51.5"
   },
   {
